@@ -22,4 +22,4 @@
 
 L'identifiant 8097 correspond à la collection **Time Us** ; l'identifiant 41459 au document intitulé **AD69 9M5**.
 
-Les adresses documents sont anonymisés.
+Les documents sont anonymisés.
