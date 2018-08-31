@@ -1,4 +1,4 @@
-Ce dossier contient les annexes du mémoire de stage pour le Master "Technologies numériques appliquées à l'histoire" de l'École nationale des chartes, intitulé ... .
+Ce dossier contient les annexes du mémoire de stage pour le Master "Technologies numériques appliquées à l'histoire" de l'École nationale des chartes, intitulé *Constituer un corpus pour la fouille de texte, de la transcription des documents d'archives à l'annotation : exploration d'une méthodologie par l'ANR Time Us*.
 
 - `A - Archives` : contient des exemples de documents d'archives utilisés dans le cadre du projet Time Us, et des documents d'analyse réalisés sur ces archives.
 
