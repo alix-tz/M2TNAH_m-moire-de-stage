@@ -1,3 +1,7 @@
+Copie du repository [UsingTranskribusAPI](https://github.com/alix-tz/UsingTranskribusAPI) avec résultats de l'exécution des *script*.
+
+------
+
 Un script pour interroger l'API de Transkribus et générer des fichiers XML-TEI et leur métadonnées.  
 
 - [Installation de l'environnement virtuel](https://github.com/alix-tz/UsingTranskribusAPI/wiki/Cr%C3%A9er-l'environnement-virtuel-pour-utiliser-le-script)  
