@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpUserLogin>
+    <userId>11982</userId>
+    <userName>*****@*****</userName>
+    <email>*****@*****</email>
+    <affiliation>None</affiliation>
+    <firstname>Alix</firstname>
+    <lastname>Chagué</lastname>
+    <gender>Other</gender>
+    <isActive>1</isActive>
+    <isAdmin>false</isAdmin>
+    <created>
+        <nanos>0</nanos>
+    </created>
+    <loginTime>2018-08-04T17:34:53.110+02:00</loginTime>
+    <sessionId>7FF95946B0131E34AFEC915413931D45</sessionId>
+    <userAgent>PostmanRuntime/7.1.5</userAgent>
+    <ip>86.250.5.241</ip>
+</trpUserLogin>

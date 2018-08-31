@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:tu="timeUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uro.citlab.module.la.core.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+<Created>2018-03-15T17:44:50.251+01:00</Created>
+<LastChange>2018-03-26T16:17:45.081+02:00</LastChange>
+<tu:title>AD69 9M5</tu:title><tu:desc>No description.</tu:desc><tu:pagenumber>1</tu:pagenumber></Metadata>
+<Page imageFilename="IMG_0119.JPG" imageHeight="5184" imageWidth="3888" tu:id="1" tu:url="https://dbis-thure.uibk.ac.at/f/Get?id=WJNLBXEYXGOKKCJZNNZPPIGX&amp;fileType=view">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1522073865124">
+<RegionRefIndexed index="0" regionRef="r1"/>
+</OrderedGroup>
+</ReadingOrder>
+<TextRegion custom="readingOrder {index:0;}" id="r1" orientation="0.0">
+<Coords points="1132,748 1132,1750 2406,1750 2406,748"/>
+<TextLine custom="readingOrder {index:0;}" id="r1l1">
+<Coords points="1222,928 1275,925 1328,922 1382,919 1435,917 1489,914 1542,910 1595,907 1649,904 1702,902 1756,900 1809,896 1862,894 1916,892 1969,892 2023,890 2076,888 2129,888 2183,886 2236,886 2290,886 2290,748 2236,748 2183,748 2129,750 2076,750 2023,752 1969,754 1916,754 1862,756 1809,758 1756,762 1702,764 1649,766 1595,769 1542,772 1489,776 1435,779 1382,781 1328,784 1275,787 1222,790"/>
+<Baseline points="1222,882 1275,879 1328,876 1382,873 1435,871 1489,868 1542,864 1595,861 1649,858 1702,856 1756,854 1809,850 1862,848 1916,846 1969,846 2023,844 2076,842 2129,842 2183,840 2236,840 2290,840"/>
+<TextEquiv>
+<Unicode>Archives </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="r1l2">
+<Coords points="1132,1118 1195,1114 1259,1110 1323,1106 1386,1104 1450,1101 1514,1098 1577,1095 1641,1092 1705,1090 1769,1088 1832,1086 1896,1084 1960,1082 2023,1079 2087,1077 2151,1075 2214,1073 2278,1072 2342,1070 2406,1068 2406,930 2342,932 2278,934 2214,935 2151,937 2087,939 2023,941 1960,944 1896,946 1832,948 1769,950 1705,952 1641,954 1577,957 1514,960 1450,963 1386,966 1323,968 1259,972 1195,976 1132,980"/>
+<Baseline points="1132,1072 1195,1068 1259,1064 1323,1060 1386,1058 1450,1055 1514,1052 1577,1049 1641,1046 1705,1044 1769,1042 1832,1040 1896,1038 1960,1036 2023,1033 2087,1031 2151,1029 2214,1027 2278,1026 2342,1024 2406,1022"/>
+<TextEquiv>
+<Unicode>du département du Rhône </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="r1l3">
+<Coords points="1522,1746 1549,1750 1576,1750 1604,1748 1604,1610 1576,1612 1549,1612 1522,1608"/>
+<Baseline points="1219,1719 1549,1704 1576,1704 2106,1637"/>
+<TextEquiv>
+<Unicode>9M5</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Archives 
+du département du Rhône 
+9M5</Unicode>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

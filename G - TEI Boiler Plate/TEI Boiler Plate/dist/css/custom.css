@@ -1,0 +1,123 @@
+/* Place project-specific CSS here */
+
+html{
+	width: 90%;
+	margin-right:10em;
+}
+
+#teibpToolbox{
+	/* shift the toolbox in the right corner of the page */
+	margin-right:4em;
+	/* make the toolbox invisible */
+	visibility:hidden;
+}
+
+.-teibp-thumbnail{
+	display: block;
+	max-height: 1000px;
+	float: right;
+	margin-left: 20px 
+}
+
+.-teibp-pb{
+	margin: 0em 0px;
+}
+
+/*.-teibp-pb:before{
+	display: block;
+	content: " - ";
+	height: 20px;
+}*/
+
+.-teibp-pageNum{
+	font-size:17px;
+	display:block;
+	text-align:left;
+}
+
+p{
+	height: 1000px;
+	overflow: scroll;
+}
+
+address[rend~="block"],
+address[rendition~="#block"] {
+	display: inline;
+}
+addrLine {
+  display: inline;
+}
+
+/* Time Us tags customization */
+date{
+	color: #808080;
+}
+
+persName{
+	color: #FFA500;
+}
+
+placeName{
+	color: #008000;
+}
+
+orgName{
+	color: #800080;
+}
+
+address{
+	display: inline;
+	color: #004C00;
+}
+
+bibl{
+	color: #ead61c;
+	/*hover: type*/
+}
+
+time{
+	color: #595959;
+}
+
+measure[type="sum"]{
+	color: #4CC9C9;
+	/*hover: type, subtype*/
+}
+
+measure[type="count"]{
+	color: #F77D92;
+	/*hover : unit*/
+}
+
+rs[type="workerStatus"]{
+	color: #BE8F8F;
+}
+
+rs[type="revenue"]{
+	text-decoration: underline;
+	text-decoration-color: #0000FF;
+}
+
+rs[type="revenue-type"]{
+	color: #000062;
+}
+
+rs[type="task"]{
+	color: #00CCCC;
+}
+
+rs[type="product"]{
+	color: #9999FF;
+}
+
+rs[type="duration"]{
+	color: #a69eb0;
+}
+
+rs[type="matStatus"]{
+	color: #CC8400;
+}
+
+rs choice orig {
+	color: #993333;
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:tu="timeUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uro.citlab.module.la.core.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+<Created>2018-05-23T13:27:07.509+02:00</Created>
+<LastChange>2018-05-26T20:36:58.348+02:00</LastChange>
+<tu:title>AD Seine Prud'homme 1858 (D1U10 386)</tu:title><tu:desc>No description.</tu:desc><tu:pagenumber>79</tu:pagenumber></Metadata>
+<Page imageFilename="PH 1858-74.jpg" imageHeight="3072" imageWidth="4608" tu:id="79" tu:url="https://dbis-thure.uibk.ac.at/f/Get?id=CLGYEQKHLGVXTJPJUDMDJIOG&amp;fileType=view">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1527359818381">
+<RegionRefIndexed index="0" regionRef="TextRegion_1527359741573_161"/>
+</OrderedGroup>
+</ReadingOrder>
+<TextRegion custom="readingOrder {index:0;}" id="TextRegion_1527359741573_161" orientation="0.0">
+<Coords points="4322,1883 1178,1883 1178,728 4322,728"/>
+<TextLine custom="readingOrder {index:0;}" id="r2l2">
+<Coords points="1272,893 1424,900 1577,908 1729,915 1882,923 2034,930 2187,938 2339,944 2492,950 2644,957 2797,962 2949,968 3102,972 3254,977 3407,980 3559,983 3712,986 3864,987 4017,989 4169,989 4322,987 4322,905 4169,907 4017,907 3864,905 3712,904 3559,901 3407,898 3254,895 3102,890 2949,886 2797,880 2644,875 2492,868 2339,862 2187,856 2034,848 1882,841 1729,833 1577,826 1424,818 1272,811"/>
+<Baseline points="1272,866 1424,873 1577,881 1729,888 1882,896 2034,903 2187,911 2339,917 2492,923 2644,930 2797,935 2949,941 3102,945 3254,950 3407,953 3559,956 3712,959 3864,960 4017,962 4169,962 4322,960"/>
+<TextEquiv>
+<Unicode>Public pour le papier timbré de la présente minute, conformément à </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="r2l5">
+<Coords points="1263,1017 1414,1028 1565,1037 1717,1046 1868,1055 2019,1064 2171,1071 2322,1077 2473,1084 2625,1091 2776,1097 2927,1101 3079,1106 3230,1110 3381,1113 3533,1116 3684,1119 3835,1122 3987,1124 4138,1126 4290,1127 4290,1045 4138,1044 3987,1042 3835,1040 3684,1037 3533,1034 3381,1031 3230,1028 3079,1024 2927,1019 2776,1015 2625,1009 2473,1002 2322,995 2171,989 2019,982 1868,973 1717,964 1565,955 1414,946 1263,935"/>
+<Baseline points="1263,990 1414,1001 1565,1010 1717,1019 1868,1028 2019,1037 2171,1044 2322,1050 2473,1057 2625,1064 2776,1070 2927,1074 3079,1079 3230,1083 3381,1086 3533,1089 3684,1092 3835,1095 3987,1097 4138,1099 4290,1100"/>
+<TextEquiv>
+<Unicode>la loi du sept aout mil huit cent cinquante, ence, non compris le cout du </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="r2l8">
+<Coords points="1248,1146 1399,1158 1551,1169 1703,1179 1855,1188 2007,1197 2159,1204 2311,1211 2463,1217 2615,1223 2767,1229 2918,1233 3070,1238 3222,1241 3374,1245 3526,1248 3678,1252 3830,1255 3982,1259 4134,1262 4286,1265 4286,1183 4134,1180 3982,1177 3830,1173 3678,1170 3526,1166 3374,1163 3222,1159 3070,1156 2918,1151 2767,1147 2615,1141 2463,1135 2311,1129 2159,1122 2007,1115 1855,1106 1703,1097 1551,1087 1399,1076 1248,1064"/>
+<Baseline points="1248,1119 1399,1131 1551,1142 1703,1152 1855,1161 2007,1170 2159,1177 2311,1184 2463,1190 2615,1196 2767,1202 2918,1206 3070,1211 3222,1214 3374,1218 3526,1221 3678,1225 3830,1228 3982,1232 4134,1235 4286,1238"/>
+<TextEquiv>
+<Unicode>présent jugement, la signification d’icelui et ses suites. Ainsi jugé </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:3;}" id="r2l10">
+<Coords points="1257,1281 1327,1288 1397,1294 1468,1301 1538,1307 1608,1312 1679,1317 1749,1322 1819,1326 1890,1331 1960,1335 2030,1338 2101,1342 2171,1344 2241,1349 2312,1351 2382,1355 2452,1358 2523,1361 2593,1364 2664,1367 2664,1285 2593,1282 2523,1279 2452,1276 2382,1273 2312,1269 2241,1267 2171,1262 2101,1260 2030,1256 1960,1253 1890,1249 1819,1244 1749,1240 1679,1235 1608,1230 1538,1225 1468,1219 1397,1212 1327,1206 1257,1199"/>
+<Baseline points="1257,1254 1327,1261 1397,1267 1468,1274 1538,1280 1608,1285 1679,1290 1749,1295 1819,1299 1890,1304 1960,1308 2030,1311 2101,1315 2171,1317 2241,1322 2312,1324 2382,1328 2452,1331 2523,1334 2593,1337 2664,1340"/>
+<TextEquiv>
+<Unicode>les jour, mois et an que dessus. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Public pour le papier timbré de la présente minute, conformément à 
+la loi du sept aout mil huit cent cinquante, ence, non compris le cout du 
+présent jugement, la signification d’icelui et ses suites. Ainsi jugé 
+les jour, mois et an que dessus. </Unicode>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

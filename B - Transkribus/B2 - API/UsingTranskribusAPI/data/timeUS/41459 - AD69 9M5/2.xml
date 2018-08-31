@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:tu="timeUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uro.citlab.module.la.core.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+<Created>2018-03-15T17:44:50.364+01:00</Created>
+<LastChange>2018-04-17T15:47:54.179+02:00</LastChange>
+<tu:title>AD69 9M5</tu:title><tu:desc>No description.</tu:desc><tu:pagenumber>2</tu:pagenumber></Metadata>
+<Page imageFilename="IMG_0120.JPG" imageHeight="5184" imageWidth="3888" tu:id="2" tu:url="https://dbis-thure.uibk.ac.at/f/Get?id=MYTBJNMFQSMEUBAZEDDJQDNE&amp;fileType=view">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1523972874227">
+<RegionRefIndexed index="0" regionRef="r1"/>
+</OrderedGroup>
+</ReadingOrder>
+<TextRegion custom="readingOrder {index:0;}" id="r1" orientation="0.0">
+<Coords points="2528,984 2528,1182 3342,1182 3342,984"/>
+<TextLine custom="readingOrder {index:0;}" id="r1l1">
+<Coords points="2528,1182 2568,1180 2609,1178 2650,1176 2690,1175 2731,1174 2772,1172 2812,1171 2853,1168 2894,1166 2935,1164 2975,1162 3016,1161 3057,1158 3097,1156 3138,1153 3179,1149 3219,1146 3260,1143 3301,1138 3342,1134 3342,984 3301,988 3260,993 3219,996 3179,999 3138,1003 3097,1006 3057,1008 3016,1011 2975,1012 2935,1014 2894,1016 2853,1018 2812,1021 2772,1022 2731,1024 2690,1025 2650,1026 2609,1028 2568,1030 2528,1032"/>
+<Baseline points="2528,1132 2568,1130 2609,1128 2650,1126 2690,1125 2731,1124 2772,1122 2812,1121 2853,1118 2894,1116 2935,1114 2975,1112 3016,1111 3057,1108 3097,1106 3138,1103 3179,1099 3219,1096 3260,1093 3301,1088 3342,1084"/>
+<TextEquiv>
+<Unicode>Grève 1894-95 </Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Grève 1894-95 </Unicode>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:tu="timeUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uro.citlab.module.la.core.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+<Created>2018-03-27T11:06:15.273+02:00</Created>
+<LastChange>2018-03-29T10:24:05.530+02:00</LastChange>
+<tu:title>2I47A/Police politique1</tu:title><tu:desc>No description.</tu:desc><tu:pagenumber>18</tu:pagenumber></Metadata>
+<Page imageFilename="IMG_0116.JPG" imageHeight="6000" imageWidth="4000" tu:id="18" tu:url="https://dbis-thure.uibk.ac.at/f/Get?id=NXOQQZOICOOGBPBSPUTOBPMK&amp;fileType=view">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1522311845570">
+<RegionRefIndexed index="0" regionRef="region_1522309663551_7"/>
+<RegionRefIndexed index="1" regionRef="region_1522309658941_6"/>
+<RegionRefIndexed index="2" regionRef="region_1522309653756_5"/>
+<RegionRefIndexed index="3" regionRef="r1"/>
+</OrderedGroup>
+</ReadingOrder>
+<TextRegion custom="readingOrder {index:0;}" id="region_1522309663551_7">
+<Coords points="1014,466 3352,466 3352,696 1014,696"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1522309869839_59">
+<Coords points="1071,461 3318,461 3318,677 1071,677"/>
+<TextEquiv>
+<Unicode>Situation industrielle au 15 juin 1860</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Situation industrielle au 15 juin 1860</Unicode>
+</TextEquiv>
+</TextRegion>
+<TextRegion custom="readingOrder {index:1;}" id="region_1522309658941_6">
+<Coords points="2012,752 3724,752 3724,5384 2012,5384"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1522309861621_58">
+<Coords points="2198,866 3678,866 3678,953 2198,953"/>
+<TextEquiv>
+<Unicode>Cet article qui comprend les satins, taffetas en gros de</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;} place {offset:0; length:6;}" id="line_1522309858991_57">
+<Coords points="2087,977 3211,977 3211,1057 2087,1057"/>
+<TextEquiv>
+<Unicode>Naples a repris depuis un mois environ.</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="line_1522309855466_56">
+<Coords points="2233,1047 3713,1047 3713,1106 2233,1106"/>
+<TextEquiv>
+<Unicode>L'armure parait avoir cette année une plus grande vogue. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:3;}" id="line_1522309836195_55">
+<Coords points="2103,1149 3677,1149 3677,1097 2103,1097"/>
+<TextEquiv>
+<Unicode>Elle rentre aussi dans la même partie et les ouvriers ont généralement </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:4;}" id="line_1522309833130_54">
+<Coords points="2102,1270 3631,1270 3631,1207 2102,1207"/>
+<TextEquiv>
+<Unicode>abandonné les autres articles pour confectionner ce dernier qui n'a </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:5;}" id="line_1522309830547_53">
+<Coords points="2096,1371 3391,1314 3389,1252 2094,1309"/>
+<TextEquiv>
+<Unicode>érigé que quelques légères modifications dans les métiers. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:6;}" id="line_1522309821406_50">
+<Coords points="2253,1424 3719,1424 3719,1504 2253,1504"/>
+<TextEquiv>
+<Unicode>Le travail a également repris depuis un mois et quelques</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:7;} work {offset:22; length:11;}" id="line_1522309824771_51">
+<Coords points="2096,1573 3673,1573 3673,1643 2096,1643"/>
+<TextEquiv>
+<Unicode>métiers choment faute d'ouvriers. Il est vrai de dire que le</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:8;}" id="line_1522309827689_52">
+<Coords points="2117,1653 2914,1653 2914,1723 2117,1723"/>
+<TextEquiv>
+<Unicode>nombre n'en est pas grand. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:9;}" id="line_1522309815071_47">
+<Coords points="2246,1758 3677,1758 3677,1859 2246,1859"/>
+<TextEquiv>
+<Unicode>Cette partie qui peu à peu fut transportée à la </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:10;}" id="line_1522309817083_48">
+<Coords points="2114,1883 3733,1883 3733,1925 2114,1925"/>
+<TextEquiv>
+<Unicode>campagne est presque perdue à Lyon. Il n'y a plus que </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:11;}" id="line_1522309818604_49">
+<Coords points="2121,1981 3283,1981 3283,2057 2121,2057"/>
+<TextEquiv>
+<Unicode>peu de métiers qui sont tous occupés. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:12;} place {offset:39; length:4;}" id="line_1522309790545_44">
+<Coords points="2278,2107 3607,2107 3607,2209 2278,2209"/>
+<TextEquiv>
+<Unicode>Cette partie qui se maintient encore à Lyon est</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:13;}" id="line_1522309794190_45">
+<Coords points="2134,2255 3728,2255 3728,2294 2134,2294"/>
+<TextEquiv>
+<Unicode>aujourd'hui dans de bonnes conditions. Quelques ouvriers rares il</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:14;}" id="line_1522309796210_46">
+<Coords points="2142,2352 3094,2352 3094,2415 2142,2415"/>
+<TextEquiv>
+<Unicode>est vrai gagnent de très fortes journées. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:15;}" id="line_1522309787037_43">
+<Coords points="2297,2453 3634,2453 3634,2593 2297,2593"/>
+<TextEquiv>
+<Unicode>Se remet de l'impulsion donnée à la fabrique</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:16;}" id="line_1522309785072_42">
+<Coords points="2317,2632 3249,2632 3249,2780 2317,2780"/>
+<TextEquiv>
+<Unicode>Se trouve dans les mêmes conditions </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:17;}" id="line_1522309782977_41">
+<Coords points="2317,2850 3374,2850 3374,2943 2317,2943"/>
+<TextEquiv>
+<Unicode>A repris ainsi que les autres parties</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:18;}" id="line_1522309780558_40">
+<Coords points="2328,3005 3160,3005 3160,3130 2328,3130"/>
+<TextEquiv>
+<Unicode>Sont presque tous occupés. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:19;} work {offset:40; length:10;}" id="line_1522309765246_37">
+<Coords points="2325,3182 3767,3182 3767,3319 2325,3319"/>
+<TextEquiv>
+<Unicode>Il y a peu d'ateliers à Lyon. Le nombre d'ouvriers a</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:20;} textStyle {offset:36; length:1;fontSize:0.0; kerning:0; superscript:true;}" id="line_1522309770231_38">
+<Coords points="2197,3307 3697,3307 3697,3404 2197,3404"/>
+<TextEquiv>
+<Unicode>toujours été à peu près le même pendt le chômage et le</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:21;}" id="line_1522309773062_39">
+<Coords points="2189,3408 3561,3408 3561,3532 2189,3532"/>
+<TextEquiv>
+<Unicode>travail a repris bien avant celui de la fabrique. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:22;}" id="line_1522309761598_36">
+<Coords points="2337,3602 3549,3602 3549,3680 2337,3680"/>
+<TextEquiv>
+<Unicode>Peu de variations depuis fort longtemps. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:23;}" id="line_1522309759351_35">
+<Coords points="2341,3750 2881,3750 2881,3913 2341,3913"/>
+<TextEquiv>
+<Unicode>Marche bien</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:24;}" id="line_1522309745576_32">
+<Coords points="2363,3928 3762,3928 3762,4006 2363,4006"/>
+<TextEquiv>
+<Unicode>Depuis deux ans environ cette partie a beaucoup </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:25;}" id="line_1522309748501_33">
+<Coords points="2223,4068 3805,4068 3805,4095 2223,4095"/>
+<TextEquiv>
+<Unicode>perdu. Plusieurs métiers ont été changés pour faire l'ornement</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:26;}" id="line_1522309750370_34">
+<Coords points="2219,4181 3572,4181 3572,4239 2219,4239"/>
+<TextEquiv>
+<Unicode>en fauve pourtant ceux qui restent sont occupés. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:27;}" id="line_1522309732717_28">
+<Coords points="2398,4317 3758,4317 3758,4371 2398,4371"/>
+<TextEquiv>
+<Unicode>La teinturerie a repris depuis 5 semaines. Les</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:28;} work {offset:0; length:8;}" id="line_1522309736067_29">
+<Coords points="2231,4433 3801,4433 3801,4476 2231,4476"/>
+<TextEquiv>
+<Unicode>ouvriers font la semaine en entier. Les ateliers ne sont </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:29;} work {offset:38; length:9;}" id="line_1522309740359_30">
+<Coords points="2246,4542 3821,4542 3821,4593 2246,4593"/>
+<TextEquiv>
+<Unicode>pas encore au grand complet. Quelques ouvriers, les mauvais, </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:30;}" id="line_1522309742262_31">
+<Coords points="2246,4624 2876,4624 2876,4744 2246,4744"/>
+<TextEquiv>
+<Unicode>sont encore inoccupés. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:31;}" id="line_1522309724100_25">
+<Coords points="2382,4748 3856,4748 3856,4837 2382,4837"/>
+<TextEquiv>
+<Unicode>Cette partie est dans de bonnes conditions. il y </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:32;} work {offset:6; length:8;}" id="line_1522309728060_26">
+<Coords points="2254,4896 3778,4896 3778,4977 2254,4977"/>
+<TextEquiv>
+<Unicode>a des ouvriers qui gagnent jusqu'à 150f par mois.</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:33;}" id="line_1522309730092_27">
+<Coords points="2262,4989 3171,4989 3171,5071 2262,5071"/>
+<TextEquiv>
+<Unicode>Ils sont un peu rares il est vrai. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:34;} work {offset:21; length:9;}" id="line_1522309720439_24">
+<Coords points="2433,5121 3463,5121 3463,5234 2433,5234"/>
+<TextEquiv>
+<Unicode>Occupent 1800 à 2000 ouvriers.</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Cet article qui comprend les satins, taffetas en gros de
+Naples a repris depuis un mois environ.
+L'armure parait avoir cette année une plus grande vogue. 
+Elle rentre aussi dans la même partie et les ouvriers ont généralement 
+abandonné les autres articles pour confectionner ce dernier qui n'a 
+érigé que quelques légères modifications dans les métiers. 
+Le travail a également repris depuis un mois et quelques
+métiers choment faute d'ouvriers. Il est vrai de dire que le
+nombre n'en est pas grand. 
+Cette partie qui peu à peu fut transportée à la 
+campagne est presque perdue à Lyon. Il n'y a plus que 
+peu de métiers qui sont tous occupés. 
+Cette partie qui se maintient encore à Lyon est
+aujourd'hui dans de bonnes conditions. Quelques ouvriers rares il
+est vrai gagnent de très fortes journées. 
+Se remet de l'impulsion donnée à la fabrique
+Se trouve dans les mêmes conditions 
+A repris ainsi que les autres parties
+Sont presque tous occupés. 
+Il y a peu d'ateliers à Lyon. Le nombre d'ouvriers a
+toujours été à peu près le même pendt le chômage et le
+travail a repris bien avant celui de la fabrique. 
+Peu de variations depuis fort longtemps. 
+Marche bien
+Depuis deux ans environ cette partie a beaucoup 
+perdu. Plusieurs métiers ont été changés pour faire l'ornement
+en fauve pourtant ceux qui restent sont occupés. 
+La teinturerie a repris depuis 5 semaines. Les
+ouvriers font la semaine en entier. Les ateliers ne sont 
+pas encore au grand complet. Quelques ouvriers, les mauvais, 
+sont encore inoccupés. 
+Cette partie est dans de bonnes conditions. il y 
+a des ouvriers qui gagnent jusqu'à 150f par mois.
+Ils sont un peu rares il est vrai. 
+Occupent 1800 à 2000 ouvriers.</Unicode>
+</TextEquiv>
+</TextRegion>
+<TextRegion custom="readingOrder {index:2;}" id="region_1522309653756_5">
+<Coords points="1136,971 2191,971 2191,5465 1136,5465"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1522309671613_8">
+<Coords points="1180,1137 2041,1137 2041,1254 1180,1254"/>
+<TextEquiv>
+<Unicode>2.00 à 2.50</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="line_1522309673809_9">
+<Coords points="1222,1557 2041,1557 2041,1701 1222,1701"/>
+<TextEquiv>
+<Unicode>2.50 à 3.00</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="line_1522309675841_10">
+<Coords points="1187,1922 2062,1922 2062,2046 1187,2046"/>
+<TextEquiv>
+<Unicode>1.75 à 2.00 </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:3;}" id="line_1522309678045_11">
+<Coords points="1166,2204 2082,2204 2082,2383 1166,2383"/>
+<TextEquiv>
+<Unicode>2.50 à 3.00</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:4;}" id="line_1522309679773_12">
+<Coords points="1228,2541 2075,2541 2075,2652 1228,2652"/>
+<TextEquiv>
+<Unicode>1.50 à 2.00</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:5;}" id="line_1522309681833_13">
+<Coords points="1222,2707 2068,2707 2068,2810 1222,2810"/>
+<TextEquiv>
+<Unicode>1.25 à 1.50 </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:6;}" id="line_1522309683872_14">
+<Coords points="1235,2913 2124,2913 2124,3003 1235,3003"/>
+<TextEquiv>
+<Unicode>200 à 350</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:7;}" id="line_1522309686379_15">
+<Coords points="1256,3058 2151,3058 2151,3202 1256,3202"/>
+<TextEquiv>
+<Unicode>2.50 à 3.50</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:8;}" id="line_1522309689001_16">
+<Coords points="1235,3195 2172,3195 2172,3313 1235,3313"/>
+<TextEquiv>
+<Unicode>125 à 150 mois</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:9;}" id="line_1522309690869_17">
+<Coords points="1277,3340 2068,3340 2068,3485 1277,3485"/>
+<TextEquiv>
+<Unicode>3 à 5</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:10;}" id="line_1522309692613_18">
+<Coords points="1283,3574 2130,3574 2130,3781 1283,3781"/>
+<TextEquiv>
+<Unicode>2.50 à 5.00</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:11;}" id="line_1522309694714_19">
+<Coords points="1270,3801 2117,3801 2117,3898 1270,3898"/>
+<TextEquiv>
+<Unicode>3.00 à 4.00 </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:12;}" id="line_1522309708147_20">
+<Coords points="1273,4019 2136,4019 2136,4167 1273,4167"/>
+<TextEquiv>
+<Unicode>3.50 à 4.00</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:13;}" id="line_1522309710347_21">
+<Coords points="1296,4420 2163,4420 2163,4583 1296,4583"/>
+<TextEquiv>
+<Unicode>3.50 à 4.00</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:14;}" id="line_1522309716228_22">
+<Coords points="1290,4845 2130,4845 2130,4981 1290,4981"/>
+<TextEquiv>
+<Unicode>3.50 à 4.00 </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:15;}" id="line_1522309718108_23">
+<Coords points="1314,5106 2149,5106 2149,5249 1314,5249"/>
+<TextEquiv>
+<Unicode>3.00 à 5.50</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>2.00 à 2.50
+2.50 à 3.00
+1.75 à 2.00 
+2.50 à 3.00
+1.50 à 2.00
+1.25 à 1.50 
+200 à 350
+2.50 à 3.50
+125 à 150 mois
+3 à 5
+2.50 à 5.00
+3.00 à 4.00 
+3.50 à 4.00
+3.50 à 4.00
+3.50 à 4.00 
+3.00 à 5.50</Unicode>
+</TextEquiv>
+</TextRegion>
+<TextRegion custom="readingOrder {index:3;}" id="r1" orientation="0.0">
+<Coords points="250,1199 250,5246 1126,5246 1126,1199"/>
+<TextLine custom="readingOrder {index:0;}" id="r1l1">
+<Coords points="298,1340 323,1338 348,1336 373,1335 398,1333 424,1330 449,1328 474,1326 499,1324 524,1324 550,1322 575,1320 600,1319 625,1318 650,1316 676,1316 701,1316 726,1314 751,1314 776,1314 802,1314 802,1199 776,1199 751,1199 726,1199 701,1201 676,1201 650,1201 625,1203 600,1204 575,1205 550,1207 524,1209 499,1209 474,1211 449,1213 424,1215 398,1218 373,1220 348,1221 323,1223 298,1225"/>
+<Baseline points="298,1302 323,1300 348,1298 373,1297 398,1295 424,1292 449,1290 474,1288 499,1286 524,1286 550,1284 575,1282 600,1281 625,1280 650,1278 676,1278 701,1278 726,1276 751,1276 776,1276 802,1276"/>
+<TextEquiv>
+<Unicode>Etoffes unies </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="r1l2">
+<Coords points="366,1774 393,1776 421,1778 449,1780 476,1780 504,1780 532,1778 559,1777 587,1775 615,1772 643,1770 670,1768 698,1766 726,1764 753,1762 781,1760 809,1760 836,1758 864,1759 892,1760 920,1762 920,1647 892,1645 864,1644 836,1643 809,1645 781,1645 753,1647 726,1649 698,1651 670,1653 643,1655 615,1657 587,1660 559,1662 532,1663 504,1665 476,1665 449,1665 421,1663 393,1661 366,1659"/>
+<Baseline points="366,1736 393,1738 421,1740 449,1742 476,1742 504,1742 532,1740 559,1739 587,1737 615,1734 643,1732 670,1730 698,1728 726,1726 753,1724 781,1722 809,1722 836,1720 864,1721 892,1722 920,1724"/>
+<TextEquiv>
+<Unicode>Etoffes façonnées</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="r1l3">
+<Coords points="254,2104 283,2105 313,2106 343,2105 373,2104 403,2104 432,2103 462,2102 492,2100 522,2100 552,2098 581,2097 611,2094 641,2092 671,2092 701,2090 730,2089 760,2088 790,2088 820,2086 850,2086 850,1971 820,1971 790,1973 760,1973 730,1974 701,1975 671,1977 641,1977 611,1979 581,1982 552,1983 522,1985 492,1985 462,1987 432,1988 403,1989 373,1989 343,1990 313,1991 283,1990 254,1989"/>
+<Baseline points="254,2066 283,2067 313,2068 343,2067 373,2066 403,2066 432,2065 462,2064 492,2062 522,2062 552,2060 581,2059 611,2056 641,2054 671,2054 701,2052 730,2051 760,2050 790,2050 820,2048 850,2048"/>
+<TextEquiv>
+<Unicode>Velours unis </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:3;}" id="r1l4">
+<Coords points="356,2450 384,2447 412,2445 440,2442 468,2439 496,2437 524,2435 552,2434 580,2432 608,2429 637,2427 665,2425 693,2424 721,2422 749,2421 777,2419 805,2418 833,2416 861,2416 889,2416 918,2416 918,2301 889,2301 861,2301 833,2301 805,2303 777,2304 749,2306 721,2307 693,2309 665,2310 637,2312 608,2314 580,2317 552,2319 524,2320 496,2322 468,2324 440,2327 412,2330 384,2332 356,2335"/>
+<Baseline points="356,2412 384,2409 412,2407 440,2404 468,2401 496,2399 524,2397 552,2396 580,2394 608,2391 637,2389 665,2387 693,2386 721,2384 749,2383 777,2381 805,2380 833,2378 861,2378 889,2378 918,2378"/>
+<TextEquiv>
+<Unicode>Velours façonnés</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:4;}" id="r1l5">
+<Coords points="250,2718 281,2718 312,2718 343,2718 375,2716 406,2716 437,2715 469,2713 500,2712 531,2711 563,2710 594,2709 625,2708 656,2707 688,2706 719,2706 750,2706 782,2706 813,2706 844,2707 876,2708 876,2593 844,2592 813,2591 782,2591 750,2591 719,2591 688,2591 656,2592 625,2593 594,2594 563,2595 531,2596 500,2597 469,2598 437,2600 406,2601 375,2601 343,2603 312,2603 281,2603 250,2603"/>
+<Baseline points="250,2680 281,2680 312,2680 343,2680 375,2678 406,2678 437,2677 469,2675 500,2674 531,2673 563,2672 594,2671 625,2670 656,2669 688,2668 719,2668 750,2668 782,2668 813,2668 844,2669 876,2670"/>
+<TextEquiv>
+<Unicode>Dévidage</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:5;}" id="r1l6">
+<Coords points="290,2896 319,2895 349,2893 379,2890 409,2887 439,2885 468,2883 498,2882 528,2880 558,2878 588,2878 617,2876 647,2876 677,2876 707,2876 737,2876 766,2876 796,2876 826,2877 856,2879 886,2880 886,2765 856,2764 826,2762 796,2761 766,2761 737,2761 707,2761 677,2761 647,2761 617,2761 588,2763 558,2763 528,2765 498,2767 468,2768 439,2770 409,2772 379,2775 349,2778 319,2780 290,2781"/>
+<Baseline points="290,2858 319,2857 349,2855 379,2852 409,2849 439,2847 468,2845 498,2844 528,2842 558,2840 588,2840 617,2838 647,2838 677,2838 707,2838 737,2838 766,2838 796,2838 826,2839 856,2841 886,2842"/>
+<TextEquiv>
+<Unicode>Moulinage </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:6;}" id="r1l7">
+<Coords points="288,3062 313,3059 338,3057 363,3056 389,3054 414,3052 439,3050 465,3048 490,3048 515,3045 541,3044 566,3044 591,3042 616,3042 642,3042 667,3042 692,3042 718,3042 743,3042 768,3043 794,3044 794,2929 768,2928 743,2927 718,2927 692,2927 667,2927 642,2927 616,2927 591,2927 566,2929 541,2929 515,2930 490,2933 465,2933 439,2935 414,2937 389,2939 363,2941 338,2942 313,2944 288,2947"/>
+<Baseline points="288,3024 313,3021 338,3019 363,3018 389,3016 414,3014 439,3012 465,3010 490,3010 515,3007 541,3006 566,3006 591,3004 616,3004 642,3004 667,3004 692,3004 718,3004 743,3004 768,3005 794,3006"/>
+<TextEquiv>
+<Unicode>Ourdissage </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:7;}" id="r1l8">
+<Coords points="306,3220 332,3218 358,3215 384,3213 410,3211 436,3208 462,3206 489,3205 515,3203 541,3202 567,3202 593,3202 619,3200 645,3200 672,3202 672,3123 645,3121 619,3121 593,3123 567,3123 541,3123 515,3124 489,3126 462,3127 436,3129 410,3132 384,3134 358,3136 332,3139 306,3141"/>
+<Baseline points="306,3194 332,3192 358,3189 384,3187 410,3185 436,3182 462,3180 489,3179 515,3177 541,3176 567,3176 593,3176 619,3174 645,3174 672,3176"/>
+<TextEquiv>
+<Unicode>Lisseuses</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:8;}" id="r1l9">
+<Coords points="294,3324 323,3322 352,3322 381,3321 410,3320 439,3320 468,3319 497,3318 526,3317 555,3316 584,3316 613,3314 642,3314 671,3314 700,3312 729,3312 758,3311 787,3310 816,3310 845,3310 874,3308 874,3229 845,3231 816,3231 787,3231 758,3232 729,3233 700,3233 671,3235 642,3235 613,3235 584,3237 555,3237 526,3238 497,3239 468,3240 439,3241 410,3241 381,3242 352,3243 323,3243 294,3245"/>
+<Baseline points="294,3298 323,3296 352,3296 381,3295 410,3294 439,3294 468,3293 497,3292 526,3291 555,3290 584,3290 613,3288 642,3288 671,3288 700,3286 729,3286 758,3285 787,3284 816,3284 845,3284 874,3282"/>
+<TextEquiv>
+<Unicode>Appreteur sur étoffes</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:9;}" id="r1l10">
+<Coords points="276,3518 304,3516 333,3513 362,3510 391,3508 420,3506 448,3504 477,3502 506,3502 535,3501 564,3500 592,3498 621,3498 650,3496 679,3496 708,3496 736,3495 765,3494 794,3494 823,3494 852,3494 852,3379 823,3379 794,3379 765,3379 736,3380 708,3381 679,3381 650,3381 621,3383 592,3383 564,3385 535,3386 506,3387 477,3387 448,3389 420,3391 391,3393 362,3395 333,3398 304,3401 276,3403"/>
+<Baseline points="276,3480 304,3478 333,3475 362,3472 391,3470 420,3468 448,3466 477,3464 506,3464 535,3463 564,3462 592,3460 621,3460 650,3458 679,3458 708,3458 736,3457 765,3456 794,3456 823,3456 852,3456"/>
+<TextEquiv>
+<Unicode>Peigniers </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:10;}" id="r1l11">
+<Coords points="314,3762 340,3760 366,3759 392,3757 418,3756 444,3754 470,3752 496,3750 522,3750 548,3748 575,3747 601,3746 627,3746 653,3746 679,3745 705,3744 731,3744 757,3744 783,3744 810,3744 810,3629 783,3629 757,3629 731,3629 705,3629 679,3630 653,3631 627,3631 601,3631 575,3632 548,3633 522,3635 496,3635 470,3637 444,3639 418,3641 392,3642 366,3644 340,3645 314,3647"/>
+<Baseline points="314,3724 340,3722 366,3721 392,3719 418,3718 444,3716 470,3714 496,3712 522,3712 548,3710 575,3709 601,3708 627,3708 653,3708 679,3707 705,3706 731,3706 757,3706 783,3706 810,3706"/>
+<TextEquiv>
+<Unicode>Tullistes </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:11;}" id="r1l12">
+<Coords points="318,3944 343,3944 368,3943 394,3942 419,3942 444,3941 470,3940 495,3940 520,3940 546,3938 571,3938 596,3938 622,3938 647,3938 672,3936 698,3938 723,3938 748,3938 774,3938 774,3823 748,3823 723,3823 698,3823 672,3821 647,3823 622,3823 596,3823 571,3823 546,3823 520,3825 495,3825 470,3825 444,3826 419,3827 394,3827 368,3828 343,3829 318,3829"/>
+<Baseline points="318,3906 343,3906 368,3905 394,3904 419,3904 444,3903 470,3902 495,3902 520,3902 546,3900 571,3900 596,3900 622,3900 647,3900 672,3898 698,3900 723,3900 748,3900 774,3900"/>
+<TextEquiv>
+<Unicode>Chales</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:12;}" id="r1l13">
+<Coords points="330,4188 368,4190 407,4190 446,4190 485,4190 524,4190 562,4188 601,4188 640,4186 679,4186 718,4184 756,4184 795,4182 834,4182 873,4182 912,4182 950,4182 989,4182 1028,4184 1067,4186 1106,4190 1106,4075 1067,4071 1028,4069 989,4067 950,4067 912,4067 873,4067 834,4067 795,4067 756,4069 718,4069 679,4071 640,4071 601,4073 562,4073 524,4075 485,4075 446,4075 407,4075 368,4075 330,4073"/>
+<Baseline points="330,4150 368,4152 407,4152 446,4152 485,4152 524,4152 562,4150 601,4150 640,4148 679,4148 718,4146 756,4146 795,4144 834,4144 873,4144 912,4144 950,4144 989,4144 1028,4146 1067,4148 1106,4152"/>
+<TextEquiv>
+<Unicode>Ornements d'église</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:13;}" id="r1l14">
+<Coords points="300,4586 333,4584 366,4584 399,4584 432,4582 466,4582 499,4582 532,4582 565,4580 598,4580 632,4580 665,4580 698,4578 731,4578 764,4578 798,4578 831,4578 864,4578 897,4578 930,4578 964,4578 964,4463 930,4463 897,4463 864,4463 831,4463 798,4463 764,4463 731,4463 698,4463 665,4465 632,4465 598,4465 565,4465 532,4467 499,4467 466,4467 432,4467 399,4469 366,4469 333,4469 300,4471"/>
+<Baseline points="300,4548 333,4546 366,4546 399,4546 432,4544 466,4544 499,4544 532,4544 565,4542 598,4542 632,4542 665,4542 698,4540 731,4540 764,4540 798,4540 831,4540 864,4540 897,4540 930,4540 964,4540"/>
+<TextEquiv>
+<Unicode>Teinturerie</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:14;}" id="r1l15">
+<Coords points="334,5004 373,5001 413,4999 452,4998 492,4996 532,4994 571,4994 611,4994 650,4994 690,4994 730,4994 769,4994 809,4994 848,4996 888,4996 928,4996 967,4997 1007,4998 1046,4998 1086,4998 1126,4998 1126,4883 1086,4883 1046,4883 1007,4883 967,4882 928,4881 888,4881 848,4881 809,4879 769,4879 730,4879 690,4879 650,4879 611,4879 571,4879 532,4879 492,4881 452,4883 413,4884 373,4886 334,4889"/>
+<Baseline points="334,4966 373,4963 413,4961 452,4960 492,4958 532,4956 571,4956 611,4956 650,4956 690,4956 730,4956 769,4956 809,4956 848,4958 888,4958 928,4958 967,4959 1007,4960 1046,4960 1086,4960 1126,4960"/>
+<TextEquiv>
+<Unicode>Imprimeurs sur étoffes</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:15;}" id="r1l16">
+<Coords points="332,5246 368,5244 405,5242 442,5241 479,5240 516,5240 552,5240 589,5240 626,5240 663,5240 700,5242 736,5242 773,5243 810,5244 847,5244 884,5244 920,5244 957,5244 994,5244 1031,5244 1068,5244 1068,5129 1031,5129 994,5129 957,5129 920,5129 884,5129 847,5129 810,5129 773,5128 736,5127 700,5127 663,5125 626,5125 589,5125 552,5125 516,5125 479,5125 442,5126 405,5127 368,5129 332,5131"/>
+<Baseline points="332,5208 368,5206 405,5204 442,5203 479,5202 516,5202 552,5202 589,5202 626,5202 663,5202 700,5204 736,5204 773,5205 810,5206 847,5206 884,5206 920,5206 957,5206 994,5206 1031,5206 1068,5206"/>
+<TextEquiv>
+<Unicode>Ateliers d'Oullins</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Etoffes unies 
+Etoffes façonnées
+Velours unis 
+Velours façonnés
+Dévidage
+Moulinage 
+Ourdissage 
+Lisseuses
+Appreteur sur étoffes
+Peigniers 
+Tullistes 
+Chales
+Ornements d'église
+Teinturerie
+Imprimeurs sur étoffes
+Ateliers d'Oullins</Unicode>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

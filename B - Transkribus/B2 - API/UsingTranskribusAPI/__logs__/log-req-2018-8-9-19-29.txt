@@ -1,0 +1,201 @@
+
+    RETRIEVING PAGE-XML FILES AND METADATA FROM TRANSKRIBUS
+
+    Script ran at: 2018-08-09 19:29:28.590826
+    For collection(s): 'timeUS'
+
+    ---------------------
+    
+
+Document '6UP1_373' contains 15 pages.
+New: 15
+In Progress: 0
+Done: 0
+Final:0
+
+
+Document '6UP1_2398' contains 18 pages.
+New: 14
+In Progress: 4
+Done: 0
+Final:0
+
+
+Document '10M_392' contains 8 pages.
+New: 1
+In Progress: 7
+Done: 0
+Final:0
+
+
+Document 'HH267' contains 38 pages.
+New: 0
+In Progress: 38
+Done: 0
+Final:0
+
+
+Document 'HH214' contains 11 pages.
+New: 0
+In Progress: 11
+Done: 0
+Final:0
+
+
+Document 'Ouvriers des 2 mondes' contains 480 pages.
+New: 0
+In Progress: 480
+Done: 0
+Final:0
+
+
+Document 'HH260' contains 63 pages.
+New: 0
+In Progress: 63
+Done: 0
+Final:0
+
+
+Document 'HH265' contains 205 pages.
+New: 0
+In Progress: 205
+Done: 0
+Final:0
+
+
+Document '2I47A_Police politique2' contains 123 pages.
+New: 122
+In Progress: 0
+Done: 1
+Final:0
+Following pages have status 'DONE': 1
+
+
+Document '10M99' contains 77 pages.
+New: 1
+In Progress: 76
+Done: 0
+Final:0
+
+
+Document '2I47 Police Politique (4)' contains 77 pages.
+New: 77
+In Progress: 0
+Done: 0
+Final:0
+
+
+Document 'AD 59 - 5 U 1 / 2 - Conseil des Prud'hommes de Tourcoing 1871' contains 6 pages.
+New: 6
+In Progress: 0
+Done: 0
+Final:0
+
+
+Document 'AD Nord Carton 5U 1/1 prudhommes' contains 17 pages.
+New: 14
+In Progress: 2
+Done: 1
+Final:0
+Following pages have status 'DONE': 16
+
+
+Document 'AD Nord - 5 U 1 / 2 - Conseil des Prud'hommes de Tourcoing 1881' contains 3 pages.
+New: 3
+In Progress: 0
+Done: 0
+Final:0
+
+
+Document 'AD Nord - 5 U 1/1 - Conseil des prud'hommes' contains 15 pages.
+New: 13
+In Progress: 2
+Done: 0
+Final:0
+
+
+Document 'Prud'hommes Tourcoing' contains 75 pages.
+New: 0
+In Progress: 75
+Done: 0
+Final:0
+
+
+Document 'AD69 9M5' contains 451 pages.
+New: 0
+In Progress: 375
+Done: 76
+Final:0
+Following pages have status 'DONE': 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 59, 60, 61, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 81, 82, 85, 86, 95, 96, 97, 100, 106, 107
+
+
+Document '2I47A/Police politique1' contains 164 pages.
+New: 0
+In Progress: 124
+Done: 40
+Final:0
+Following pages have status 'DONE': 2, 3, 4, 6, 7, 8, 10, 11, 14, 15, 16, 17, 18, 20, 21, 22, 23, 26, 27, 28, 29, 30, 31, 34, 35, 36, 39, 42, 43, 44, 47, 50, 51, 60, 62, 64, 69, 70, 71, 72
+
+
+Document 'AD Seine Prud'homme 1858 (D1U10 386)' contains 1315 pages.
+New: 0
+In Progress: 1213
+Done: 102
+Final:0
+Following pages have status 'DONE': 2, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 109
+
+
+Document 'AD Seine Prud'hommes 1847-1849 (D1U10 379)' contains 47 pages.
+New: 0
+In Progress: 46
+Done: 1
+Final:0
+Following pages have status 'DONE': 2
+
+
+Document 'AD Seine Prud'hommes 1878 (D1U10 405)' contains 137 pages.
+New: 0
+In Progress: 137
+Done: 0
+Final:0
+
+
+Document 'AD Seine Prud'hommes 1883  (D1U10 410)' contains 128 pages.
+New: 0
+In Progress: 128
+Done: 0
+Final:0
+
+
+Document 'AD Seine Prud'hommes 1863 (D1U10 391)' contains 119 pages.
+New: 0
+In Progress: 119
+Done: 0
+Final:0
+
+
+Document 'procès du 19_02_71' contains 4 pages.
+New: 0
+In Progress: 0
+Done: 4
+Final:0
+Following pages have status 'DONE': 1, 2, 3, 4
+
+
+Document 'AD Seine Prud'homme 1858 (D1U10 386)_HTRtest' contains 1315 pages.
+New: 0
+In Progress: 1315
+Done: 0
+Final:0
+
+
+Document 'suite d'affaires Curia, Janvier - mars 1768' contains 5 pages.
+New: 0
+In Progress: 3
+Done: 2
+Final:0
+Following pages have status 'DONE': 1, 2
+
+
+ =================================================== 
+

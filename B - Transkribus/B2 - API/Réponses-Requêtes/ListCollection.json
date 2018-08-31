@@ -1,0 +1,51 @@
+[
+    {
+        "type": "trpCollection",
+        "colId": 2805,
+        "colName": "eLearning",
+        "description": "created by guenter",
+        "crowdsourcing": false,
+        "elearning": true,
+        "pageId": 204623,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=ERPDNPGLDFALSYJFLARZDNOX&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=ERPDNPGLDFALSYJFLARZDNOX&fileType=thumb",
+        "nrOfDocuments": 49,
+        "role": "Reader"
+    },
+    {
+        "type": "trpCollection",
+        "colId": 8097,
+        "colName": "timeUS",
+        "description": "created by *****@*****",
+        "crowdsourcing": false,
+        "elearning": false,
+        "pageId": 1181082,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=SVIOUMFEMMCHGWUVODERFMFU&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=SVIOUMFEMMCHGWUVODERFMFU&fileType=thumb",
+        "nrOfDocuments": 26,
+        "role": "Owner"
+    },
+    {
+        "type": "trpCollection",
+        "colId": 9222,
+        "colName": "learn.transkribus",
+        "description": "created by guenter",
+        "crowdsourcing": false,
+        "elearning": true,
+        "nrOfDocuments": 56,
+        "role": "Reader"
+    },
+    {
+        "type": "trpCollection",
+        "colId": 11772,
+        "colName": "*****@***** Collection",
+        "description": "*****@*****",
+        "crowdsourcing": false,
+        "elearning": false,
+        "pageId": 1475317,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=FKAYHOLJPWQRUYKMROKQLPEH&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=FKAYHOLJPWQRUYKMROKQLPEH&fileType=thumb",
+        "nrOfDocuments": 4,
+        "role": "Owner"
+    }
+]

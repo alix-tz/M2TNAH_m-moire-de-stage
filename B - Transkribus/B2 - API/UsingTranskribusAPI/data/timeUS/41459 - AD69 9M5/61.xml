@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:tu="timeUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uro.citlab.module.la.core.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+<Created>2018-03-15T17:44:56.396+01:00</Created>
+<LastChange>2018-03-23T15:15:52.334+01:00</LastChange>
+<tu:title>AD69 9M5</tu:title><tu:desc>No description.</tu:desc><tu:pagenumber>61</tu:pagenumber></Metadata>
+<Page imageFilename="IMG_0179.JPG" imageHeight="5184" imageWidth="3888" tu:id="61" tu:url="https://dbis-thure.uibk.ac.at/f/Get?id=FBZVAMINPFSSIQXUSZLWKDVA&amp;fileType=view">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1521814552376">
+<RegionRefIndexed index="0" regionRef="r1"/>
+</OrderedGroup>
+</ReadingOrder>
+<TextRegion custom="readingOrder {index:0;}" id="r1" orientation="0.0">
+<Coords points="1130,599 1130,1333 3306,1333 3306,599"/>
+<TextLine custom="readingOrder {index:0;}" id="r1l1">
+<Coords points="1130,704 1223,706 1317,708 1411,708 1505,708 1599,708 1693,710 1787,708 1881,708 1975,708 2069,708 2162,706 2256,706 2350,706 2444,705 2538,704 2632,704 2726,704 2820,702 2914,702 3008,702 3008,599 2914,599 2820,599 2726,601 2632,601 2538,601 2444,602 2350,603 2256,603 2162,603 2069,605 1975,605 1881,605 1787,605 1693,607 1599,605 1505,605 1411,605 1317,605 1223,603 1130,601"/>
+<Baseline points="1130,670 1223,672 1317,674 1411,674 1505,674 1599,674 1693,676 1787,674 1881,674 1975,674 2069,674 2162,672 2256,672 2350,672 2444,671 2538,670 2632,670 2726,670 2820,668 2914,668 3008,668"/>
+<TextEquiv>
+<Unicode>disposés à en faire autant. </Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;} place {offset:0; length:5;}" id="r1l2">
+<Coords points="1978,856 2044,854 2110,852 2177,852 2243,850 2310,850 2376,848 2442,848 2509,846 2575,846 2642,846 2708,844 2774,844 2841,842 2907,842 2974,841 3040,840 3106,840 3173,838 3239,838 3306,836 3306,733 3239,735 3173,735 3106,737 3040,737 2974,738 2907,739 2841,739 2774,741 2708,741 2642,743 2575,743 2509,743 2442,745 2376,745 2310,747 2243,747 2177,749 2110,749 2044,751 1978,753"/>
+<Baseline points="1978,822 2044,820 2110,818 2177,818 2243,816 2310,816 2376,814 2442,814 2509,812 2575,812 2642,812 2708,810 2774,810 2841,808 2907,808 2974,807 3040,806 3106,806 3173,804 3239,804 3306,802"/>
+<TextEquiv>
+<Unicode>Lyon, le 28 Novembre 1894</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;} work {offset:3; length:19;}" id="r1l3">
+<Coords points="2146,999 2198,1000 2250,1001 2303,1001 2355,1001 2408,1001 2460,999 2512,999 2565,998 2617,997 2670,995 2722,994 2774,993 2827,993 2879,991 2932,991 2984,993 3036,993 3089,995 3141,997 3194,999 3194,893 3141,891 3089,889 3036,887 2984,887 2932,885 2879,885 2827,887 2774,887 2722,888 2670,889 2617,891 2565,892 2512,893 2460,893 2408,895 2355,895 2303,895 2250,895 2198,894 2146,893"/>
+<Baseline points="2146,964 2198,965 2250,966 2303,966 2355,966 2408,966 2460,964 2512,964 2565,963 2617,962 2670,960 2722,959 2774,958 2827,958 2879,956 2932,956 2984,958 3036,958 3089,960 3141,962 3194,964"/>
+<TextEquiv>
+<Unicode>Le Commissaire Spécial,</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:3;} person {offset:3; length:5;}" id="r1l4">
+<Coords points="2330,1333 2363,1332 2397,1331 2431,1328 2464,1326 2498,1323 2532,1320 2565,1316 2599,1312 2633,1307 2667,1302 2700,1296 2734,1293 2768,1287 2801,1285 2835,1280 2869,1279 2902,1276 2936,1275 2970,1275 3004,1275 3004,1169 2970,1169 2936,1169 2902,1170 2869,1173 2835,1174 2801,1179 2768,1181 2734,1187 2700,1190 2667,1196 2633,1201 2599,1206 2565,1210 2532,1214 2498,1217 2464,1220 2431,1222 2397,1225 2363,1226 2330,1227"/>
+<Baseline points="2330,1298 2363,1297 2397,1296 2431,1293 2464,1291 2498,1288 2532,1285 2565,1281 2599,1277 2633,1272 2667,1267 2700,1261 2734,1258 2768,1252 2801,1250 2835,1245 2869,1244 2902,1241 2936,1240 2970,1240 3004,1240"/>
+<TextEquiv>
+<Unicode>L. Perny</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>disposés à en faire autant. 
+Lyon, le 28 Novembre 1894
+Le Commissaire Spécial,
+L. Perny</Unicode>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

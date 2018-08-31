@@ -1,0 +1,15 @@
+
+    BUILDING SINGLE XML DOCUMENT(PAGE FORMAT) FROM MULTIPLE XML FILES
+    
+    Script ran at : 2018-08-09 19:32:36.889113
+    For collection 'timeUS'.
+    
+    ---------------------
+Created 1 mashup file for '53428 - AD Seine Prud'homme 1858 (D1U10 386)', from a total of 204 file(s).
+Created 1 mashup file for '38747 - AD Nord Carton 5U 1-1 prudhommes', from a total of 2 file(s).
+Created 1 mashup file for '38642 - 2I47A_Police politique2', from a total of 2 file(s).
+Created 1 mashup file for '68178 - suite d'affaires Curia, Janvier - mars 1768', from a total of 4 file(s).
+Created 1 mashup file for '41459 - AD69 9M5', from a total of 152 file(s).
+Created 1 mashup file for '42658 - 2I47A-Police politique1', from a total of 80 file(s).
+Created 1 mashup file for '61778 - procès du 19_02_71', from a total of 8 file(s).
+Created 1 mashup file for '53483 - AD Seine Prud'hommes 1847-1849 (D1U10 379)', from a total of 2 file(s).

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpCollections>
+    <trpCollection>
+        <colId>2805</colId>
+        <colName>eLearning</colName>
+        <description>created by guenter</description>
+        <crowdsourcing>false</crowdsourcing>
+        <elearning>true</elearning>
+        <pageId>204623</pageId>
+        <url>https://dbis-thure.uibk.ac.at/f/Get?id=ERPDNPGLDFALSYJFLARZDNOX&amp;fileType=view</url>
+        <thumbUrl>https://dbis-thure.uibk.ac.at/f/Get?id=ERPDNPGLDFALSYJFLARZDNOX&amp;fileType=thumb</thumbUrl>
+        <nrOfDocuments>49</nrOfDocuments>
+        <role>Reader</role>
+    </trpCollection>
+    <trpCollection>
+        <colId>8097</colId>
+        <colName>timeUS</colName>
+        <description>created by *****@*****</description>
+        <crowdsourcing>false</crowdsourcing>
+        <elearning>false</elearning>
+        <pageId>1181082</pageId>
+        <url>https://dbis-thure.uibk.ac.at/f/Get?id=SVIOUMFEMMCHGWUVODERFMFU&amp;fileType=view</url>
+        <thumbUrl>https://dbis-thure.uibk.ac.at/f/Get?id=SVIOUMFEMMCHGWUVODERFMFU&amp;fileType=thumb</thumbUrl>
+        <nrOfDocuments>26</nrOfDocuments>
+        <role>Owner</role>
+    </trpCollection>
+    <trpCollection>
+        <colId>9222</colId>
+        <colName>learn.transkribus</colName>
+        <description>created by guenter</description>
+        <crowdsourcing>false</crowdsourcing>
+        <elearning>true</elearning>
+        <nrOfDocuments>56</nrOfDocuments>
+        <role>Reader</role>
+    </trpCollection>
+    <trpCollection>
+        <colId>11772</colId>
+        <colName>*****@***** Collection</colName>
+        <description>*****@*****</description>
+        <crowdsourcing>false</crowdsourcing>
+        <elearning>false</elearning>
+        <pageId>1475317</pageId>
+        <url>https://dbis-thure.uibk.ac.at/f/Get?id=FKAYHOLJPWQRUYKMROKQLPEH&amp;fileType=view</url>
+        <thumbUrl>https://dbis-thure.uibk.ac.at/f/Get?id=FKAYHOLJPWQRUYKMROKQLPEH&amp;fileType=thumb</thumbUrl>
+        <nrOfDocuments>4</nrOfDocuments>
+        <role>Owner</role>
+    </trpCollection>
+</trpCollections>

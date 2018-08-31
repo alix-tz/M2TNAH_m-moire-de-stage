@@ -1,0 +1,67 @@
+
+    TRANSFORMING XML FILES (PAGE FORMAT) TO TEXT FILES
+
+    Script ran at : 2018-08-09 19:32:31.081978
+    For collections 'timeUS'.
+
+    ---------------------
+No .xml file in '35202 - 10M_392' directory.
+
+No .xml file in '37569 - HH265' directory.
+
+Found 102 .xml file(s) in '53428 - AD Seine Prud'homme 1858 (D1U10 386)' directory.
+	Found 102 .xml file(s) matching PAGE format.
+
+No .xml file in '38648 - 10M99' directory.
+
+Found 1 .xml file(s) in '38747 - AD Nord Carton 5U 1-1 prudhommes' directory.
+	Found 1 .xml file(s) matching PAGE format.
+
+No .xml file in '35271 - HH214' directory.
+
+Found 1 .xml file(s) in '38642 - 2I47A_Police politique2' directory.
+	Found 1 .xml file(s) matching PAGE format.
+
+No .xml file in '53501 - AD Seine Prud'hommes 1883  (D1U10 410)' directory.
+
+Found 2 .xml file(s) in '68178 - suite d'affaires Curia, Janvier - mars 1768' directory.
+	Found 2 .xml file(s) matching PAGE format.
+
+No .xml file in '35205 - HH267' directory.
+
+No .xml file in '36685 - Ouvriers des 2 mondes' directory.
+
+No .xml file in '37568 - HH260' directory.
+
+No .xml file in '39066 - Prud'hommes Tourcoing' directory.
+
+Found 76 .xml file(s) in '41459 - AD69 9M5' directory.
+	Found 76 .xml file(s) matching PAGE format.
+
+No .xml file in '35200 - 6UP1_2398' directory.
+
+Found 40 .xml file(s) in '42658 - 2I47A-Police politique1' directory.
+	Found 40 .xml file(s) matching PAGE format.
+
+Found 4 .xml file(s) in '61778 - procès du 19_02_71' directory.
+	Found 4 .xml file(s) matching PAGE format.
+
+No .xml file in '53542 - AD Seine Prud'hommes 1863 (D1U10 391)' directory.
+
+Found 1 .xml file(s) in '53483 - AD Seine Prud'hommes 1847-1849 (D1U10 379)' directory.
+	Found 1 .xml file(s) matching PAGE format.
+
+No .xml file in '63512 - AD Seine Prud'homme 1858 (D1U10 386)_HTRtest' directory.
+
+No .xml file in '38745 - AD 59 - 5 U 1 - 2 - Conseil des Prud'hommes de Tourcoing 1871' directory.
+
+No .xml file in '38740 - 2I47 Police Politique (4)' directory.
+
+No .xml file in '38752 - AD Nord - 5 U 1 - 2 - Conseil des Prud'hommes de Tourcoing 1881' directory.
+
+No .xml file in '53494 - AD Seine Prud'hommes 1878 (D1U10 405)' directory.
+
+No .xml file in '38760 - AD Nord - 5 U 1-1 - Conseil des prud'hommes' directory.
+
+No .xml file in '35199 - 6UP1_373' directory.
+

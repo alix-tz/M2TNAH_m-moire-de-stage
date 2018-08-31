@@ -1,0 +1,3 @@
+- le dossier `AD69 9M5` contient les fichiers créés pour le test de l'outil TEI Boiler Plate : un fichier XML `41459 - AD69 9M5 (short-jpg).xml` modifié pour le test, et les images des 20 premières pages dans le dossier `images`.
+
+- le dossier `TEI Boiler Plate` contient l'ensemble de la configuration, incluant les fichiers de test issus du projet Time Us. L'ouverture du fichier `41459 - AD69 9M5 (short-jpg).xml`, situé dans le dossier `TEI Boiler Plate/dist/content`, dans un navigateur suffit pour l'afficher tel que prévu par TEI Boiler Plate et nos paramétrages. Le contenu de ce dossier est également disponible à l'adresse suivante : https://github.com/alix-tz/TEI-Boilerplate/tree/TimeUs.

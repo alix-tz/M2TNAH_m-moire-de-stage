@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>AD69 9M5, pages 1 à 20 - Transcription</title>
+            <editor>Manuela Martini</editor>
+            <respStmt>
+               <name>charles.riondet@inria.fr</name>, <resp>créateur⋅rice du document Transkribus (TRP).</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <bibl>
+               <publisher>tranScriptorium</publisher>
+            </bibl>
+            <bibl>
+               <publisher>Time Us</publisher> (<date>2017-2020</date>) : http://timeusage.paris.inria.fr/mediawiki/index.php/Accueil</bibl>
+         </publicationStmt>
+         <sourceDesc>
+            <p>No description.</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change type="Created">2018-03-15T17:44:50.251+01:00</change>
+         <change type="LastChange">2018-03-26T16:17:45.081+02:00</change>
+         <change type="ToTEI">2018-07-20T15:32:43.061+02:00</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="1" facs="../images/AD699M5_1.jpg"/>
+         <p>
+                    <lb n="N001"/>Archives 
+                    <lb n="N002"/>du département du Rhône 
+                    <lb n="N003"/>9M5</p>
+         <pb n="2" facs="../images/AD699M5_2.jpg"/>
+         <p>
+                    <lb n="N001"/>Grève 1894-95 </p>
+         <pb n="3" facs="../images/AD699M5_3.jpg"/>
+         <p>
+                    <lb n="N001"/>du 22 Décembre 1894
+                    <lb n="N002"/>Préfecture du Rhône 
+                    <lb n="N003"/>Commissariat Spécial
+                    <lb n="N004"/>Mouvement des tisseurs
+                    <lb n="N005"/>Tissage mécanique </p>
+         <p>
+                    <lb n="N001"/>Rapport
+                    <lb n="N002"/>Une réunion privée des <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ouvriers et </orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N003"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ouvrières du tissage mécanique</orig>
+                  <reg/>
+               </choice>
+            </rs> a eu lieu hier,
+                    <lb n="N004"/>
+            <address>Place de la Croix-Rousse. 4</address> dans une des salles
+                    <lb n="N005"/>du <placeName>café Verdior</placeName>. 
+                    <lb n="N006"/>La séance a été ouverte à <time>8h 1/4</time> et levée à 
+                    <lb n="N007"/>
+            <time>10heures</time>. 
+                    <lb n="N008"/>Soixante personnes y assistaient 
+                    <lb n="N009"/>Le Bureau d'ordre était ainsi composé: 
+                    <lb n="N010"/>Président : <persName>Félix</persName>
+                    <lb n="N011"/>Secrétaire : <persName>Beau</persName> 
+                    <lb n="N012"/>Assesseur : <persName>Bourde</persName>
+                    <lb n="N013"/>Au début de la séance, le n<hi rend="fontSize:0.0; kerning:0; superscript:true;">é</hi> 
+            <persName>Bourde</persName> dit
+                    <lb n="N014"/>qu'il est pénible de voir si peu de monde à 
+                    <lb n="N015"/>cette réunion : il invite les grévistes qui auraient 
+                    <lb n="N016"/>quelque réclamation à formuler, à prendre la 
+                    <lb n="N017"/>parole. 
+                    <lb n="N018"/>Une gréviste de la <orgName>Maison Gindre</orgName>, déclare
+                    <lb n="N019"/>alors qu'elle est allée à l'usine pour se faire
+                    <lb n="N020"/>payer sa pièce étant terminée, et qu'elle avait 
+                    <lb n="N021"/>discuté avec <rs type="matStatus">M.</rs> 
+            <persName>Gindre</persName> fils au sujet de
+                    <lb n="N022"/>l'augmentation des salaires demandée. 
+                    <lb n="N023"/>
+            <rs type="matStatus">M.</rs> 
+            <persName>Gindre</persName> lui aurait répondu qu'elle 
+                    <lb n="N024"/>pouvait reprendre le travail si ça lui faisait 
+                    <lb n="N025"/>plaisir mais quant à augmenter les salaires
+                    <lb n="N026"/>de ses <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> et <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> il n'y fallait pas
+                    <lb n="N027"/>compter. Elle a ajouté qu'elle s'était rendue 
+                    <lb n="N028"/>à l'atelier pour prendre les objets qui lui 
+                    <lb n="N029"/>appartenaient et qu'elle avait remarqué que</p>
+         <pb n="4" facs="../images/AD699M5_4.jpg"/>
+         <p>
+                    <lb n="N001"/>près des 3/4 des <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> travaillaient. 
+                    <lb n="N002"/>Une autre <rs type="occupation">
+               <choice>
+                  <orig>ouvrière</orig>
+                  <reg/>
+               </choice>
+            </rs> lui répond qu'avant de 
+                    <lb n="N003"/>faire grève, il fallait d'abord se rendre compte si les 
+                    <lb n="N004"/>
+            <certainty cert="low">mères de famille<!--S'agit-il d'une occupation ?--></certainty> pouvaient donner du pain à 
+                    <lb n="N005"/>leurs enfants. 
+                    <lb n="N006"/>Le n<hi rend="fontSize:0.0; kerning:0; superscript:true;">é</hi> 
+            <persName>Bourde</persName> dit qu'en effet la situation 
+                    <lb n="N007"/>des <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> et <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> est précaire, mais que les 
+                    <lb n="N008"/>grévistes <rs type="revenue" rend="multiline">pouvaient toucher <rs type="duration">tous les soirs</rs> la somme </rs>
+                    <lb n="N009"/>
+            <rs type="revenue" rend="multiline">de <measure type="sum">1f50</measure>
+            </rs> au <placeName rend="multiline">siège du <orgName rend="multiline">syndicat des ouvriers tisseurs</orgName>
+            </placeName>
+                    <lb n="N010"/>
+            <orgName rend="multiline">
+               <placeName rend="multiline">et similaires</placeName>
+               <placeName rend="multiline"/>
+            </orgName>, <placeName rend="multiline"/>, <address>rue d'Austerlitz 8</address>, et que lui, s'il 
+                    <lb n="N011"/>était gréviste, il préférerait ne manger que des pommes
+                    <lb n="N012"/>de terre pendant 8 jours, avant de reprendre le 
+                    <lb n="N013"/>travail sans avoir obtenu satisfaction, mais qu'il 
+                    <lb n="N014"/>voyait bien que si les <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> de l'<orgName>usine Gindre</orgName>
+                    <lb n="N015"/>ne s'entendait pas mieux, elles n'aboutiront qu'à
+                    <lb n="N016"/>un échec certain. 
+                    <lb n="N017"/>Il a ajouté que si les <rs type="occupation">
+               <choice>
+                  <orig>ouvrieres</orig>
+                  <reg/>
+               </choice>
+            </rs> grévistes qui 
+                    <lb n="N018"/>ont repris le travail avaient su <rs type="revenue" rend="multiline">toucher <measure type="sum">1f50</measure> 
+               <rs type="duration" rend="multiline">par</rs>
+            </rs>
+                    <lb n="N019"/>
+            <rs type="duration" rend="multiline">
+               <rs type="revenue" rend="multiline">jour</rs>
+               <rs type="revenue" rend="multiline"/>
+            </rs>, elles n'auraient pas travaillé et qu'il fallait <rs type="revenue" rend="multiline"/>, 
+                    <lb n="N020"/>les engager à cesser le travail en les informant 
+                    <lb n="N021"/>de l'<rs type="indemnité syndicale">indemnité </rs>qui leur est allouée. 
+                    <lb n="N022"/>Il invite les grévistes à se réunir aujourd'hui 
+                    <lb n="N023"/>à <time>2heures de l'après-midi</time> dans le même local, pour 
+                    <lb n="N024"/>se rendre ensuite par groupes de quatre à la porte 
+                    <lb n="N025"/>des usines du tissage mécanique, afin de faire une 
+                    <lb n="N026"/>quête à la sortie des <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs>, au bénéfice des
+                    <lb n="N027"/>grévistes. 
+                    <lb n="N028"/>Le n<hi rend="fontSize:0.0; kerning:0; superscript:true;">é</hi> 
+            <persName>Beau</persName>, dit qu'il se rendra à 
+                    <lb n="N029"/>cette réunion et apportera les adresses des usines du  </p>
+         <pb n="5" facs="../images/AD699M5_5.jpg"/>
+         <p>
+                    <lb n="N001"/>tissage mécanique, il ajoute que les grévistes
+                    <lb n="N002"/>devront faire des quêtes dans les autres corporations 
+                    <lb n="N003"/>ainsi que dans les magasins. 
+                    <lb n="N004"/>Une commission composée de 20 grévistes
+                    <lb n="N005"/>est ensuite nommée pour faire le service de 
+                    <lb n="N006"/>surveillance à la rentrée et sortie des <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> de 
+                    <lb n="N007"/>l'<orgName>usine Gindre</orgName>, à l'effet de s'assurer du nombre qui 
+                    <lb n="N008"/>travaille. 
+                    <lb n="N009"/>Le n<hi rend="fontSize:0.0; kerning:0; superscript:true;">é</hi> 
+            <persName>Beau</persName> engage les assistants à 
+                    <lb n="N010"/>se rendre en foule à la réunion publique organisée 
+                    <lb n="N011"/>par la corporation du tissage mécanique qui aura 
+                    <lb n="N012"/>lieu ce <time>soir à 8heures</time> à la <placeName>Bourse du Travail</placeName>, 
+                    <lb n="N013"/>puis la séance est levée sans incident. 
+                    <lb n="N014"/>Lyon le <date month="0" day="0" year="0">22 Décembre 1894</date>
+                    <lb n="N015"/>Le commissaire spécial,
+                    <lb n="N016"/>
+            <persName>L. Perny</persName>
+         </p>
+         <pb n="6" facs="../images/AD699M5_6.jpg"/>
+         <p>
+                    <lb n="N001"/>Préfecture du Rhône
+                    <lb n="N002"/>Gardien de la paix
+                    <lb n="N003"/>Poste de la Croix-Rousse
+                    <lb n="N004"/>Service du 26 décembre 1894
+                    <lb n="N005"/>Grève - <orgName>Gindre et Cie</orgName>
+                    <lb n="N006"/>L'entrée s'est faite sans incident
+                    <lb n="N007"/>
+            <rs type="occupation">
+               <choice>
+                  <orig>Tisseuses</orig>
+                  <reg/>
+               </choice>
+            </rs> travaillant .... 150
+                    <lb n="N008"/>d<hi rend="fontSize:0.0; kerning:0; superscript:true;">o</hi> en grève .... 10
+                    <lb n="N009"/>P. de Brigadie <persName>P. Jaillet</persName>
+                    <lb n="N010"/>
+            <persName>J. Geay</persName>
+         </p>
+         <pb n="8" facs="../images/AD699M5_8.jpg"/>
+         <p>
+                    <lb n="N001"/>commencées.
+                    <lb n="N002"/>Les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> se sont montrés favorables à une
+                    <lb n="N003"/>augmentation immédiate des <certainty cert="low">prix de façon<!--S'agit-il d'un type de rémunération ? Faut-il l'annoter ?--></certainty>, mais ils
+                    <lb n="N004"/>veulent avoir la faculté de débattre ces prix directement
+                    <lb n="N005"/>avec leurs <rs type="occupation">
+               <choice>
+                  <orig>chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs>.
+                    <lb n="N006"/>Ils ont engagé les membres de la Commission
+                    <lb n="N007"/>à faire connaître ces conditions à leurs collègues <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>chefs</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N008"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>d'ateliers</orig>
+                  <reg/>
+               </choice>
+            </rs> dans la grande réunion qui aura lieu ce <time rend="multiline">soir</time>
+                    <lb n="N009"/>
+            <time rend="multiline">à 8 heures</time> à la <placeName>Brasserie Française</placeName> et à les engager à
+                    <lb n="N010"/>se présenter immédiatement chez leurs <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> respectifs
+                    <lb n="N011"/>pour traiter directement avec eux.
+                    <lb n="N012"/>Les n<hi rend="fontSize:0.0; kerning:0; superscript:true;">és</hi> 
+            <persName>Naudot</persName>, <persName>Berton</persName>, <persName>Guicherd</persName> et d'autres
+                    <lb n="N013"/>membres de la Commission ouvrière ont fait remarquer
+                    <lb n="N014"/>que les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> et <rs type="occupation">
+               <choice>
+                  <orig>chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> accueilleront mal ces
+                    <lb n="N015"/>propositions et y verront un parti pris de la part de
+                    <lb n="N016"/>M. M. les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> pour refuser une entente.
+                    <lb n="N017"/>Ils ont sollicité ces derniers d'établir comme en
+                    <lb n="N018"/>
+            <date month="0" day="0" year="0">1885</date> des <certainty cert="low">prix de séries<!--S'agit-il d'un type de rémunération ? Faut-il l'annoter ?--></certainty> en classant les articles à
+                    <lb n="N019"/>augmenter, mais les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> ont formellement
+                    <lb n="N020"/>refusé cette proposition.
+                    <lb n="N021"/>
+            <persName>Naudot</persName> a demandé ensuite si l'article de fond
+                    <lb n="N022"/>du "<orgName>Nouveau Lyon</orgName>" de ce matin intitulé "<bibl rend="multiline">Grève</bibl>
+                    <lb n="N023"/>
+            <bibl rend="multiline">générale</bibl>" n'avait pas été inspiré par les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N024"/>en termes un peu véhéments, il a critiqué l'auteur
+                    <lb n="N025"/>de cet article.
+                    <lb n="N026"/>Tous les <rs type="occupation">
+               <choice>
+                  <orig>patrons</orig>
+                  <reg/>
+               </choice>
+            </rs> ont protesté conter cette suspicion 
+                    <lb n="N027"/>et <rs type="matStatus">M.</rs> 
+            <persName>Chavent</persName> a déclaré que dans la question 
+                    <lb n="N028"/>actuellement en instance entre les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> et les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N029"/>ces derniers rejetaient toute polémique par la Presse
+                    <lb n="N030"/>au moyen de discussions et qu'il était autorisé à</p>
+         <pb n="9" facs="../images/AD699M5_9.jpg"/>
+         <p>
+                    <lb n="N001"/>décliner toute immixtion d'étrangers et à désapprouver
+                    <lb n="N002"/>l'article du "Nouveau Lyon"
+                    <lb n="N003"/>Enfin la réunion a pris fin au milieu d'un 
+                    <lb n="N004"/>calme et d'une froideur qui révélaient qu'entre <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N005"/>et <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> l'hostilité n'avait fait qu'augmenter
+                    <lb n="N006"/>Les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> se sont retirés les premiers et 
+                    <lb n="N007"/>les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> ensuite.
+                    <lb n="N008"/>Ci joint-l'article du "Nouveau Lyon" dont il est question dans le présent rapport 
+                    <lb n="N009"/>
+            <placeName>Lyon</placeName> le <date month="0" day="0" year="0">12 Décembre 1894</date>. 
+                    <lb n="N010"/>Le Commissaire Spécial, 
+                    <lb n="N011"/>
+            <persName>L. Perny</persName> 
+         </p>
+         <pb n="10" facs="../images/AD699M5_10.jpg"/>
+         <p>
+                    <lb n="N001"/>
+            <orgName>Journal "Le Nouveau Lyon"</orgName> du <date month="0" day="0" year="0">12 Décembre 1894</date>
+         </p>
+         <p>
+                    <lb n="N001"/>La grève générale </p>
+         <p>
+                    <lb n="N001"/>Nul n'ignore qu'une crise intense
+                    <lb n="N002"/>sévit sur toutes les industries françai¬
+                    <lb n="N003"/>ses. 
+                    <lb n="N004"/>On a souvent tourné en dérision le
+                    <lb n="N005"/>commerçant lyonnais et son éternelle
+                    <lb n="N006"/>habitude d'essuyer au coin de l'oeil
+                    <lb n="N007"/>une larme souvent absente sur le 
+                    <lb n="N008"/>mauvais état des affaires. 
+                    <lb n="N009"/>Il faut pourtant reconnaître qu'au¬
+                    <lb n="N010"/>jourd'hui, si la larme n'y est pas, elle 
+                    <lb n="N011"/>pourrait, elle aurait le droit de s'y 
+                    <lb n="N012"/>trouver. 
+                    <lb n="N013"/>Les évaluations les plus modestes
+                    <lb n="N014"/>ont fixé à deux cents millions les per¬
+                    <lb n="N015"/>tes subies par la place de Lyon au 
+                    <lb n="N016"/>cours de la présente année. 
+                    <lb n="N017"/>Les cours de la soie se sont effon¬
+                    <lb n="N018"/>drés et les détenteurs de soieries, <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>fa¬</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N019"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>bricants</orig>
+                  <reg/>
+               </choice>
+            </rs> et autres, ont vu baisser du 
+                    <lb n="N020"/>simple au double la valeur des mar¬
+                    <lb n="N021"/>chandises qu'ils avaient en magasins
+                    <lb n="N022"/>et qu'il leur fallait payer eux-mêmes
+                    <lb n="N023"/>aux cours élevés des époques d'achat
+                    <lb n="N024"/>pour les revendre aux prix avilis du 
+                    <lb n="N025"/>moment actuel. 
+                    <lb n="N026"/>Ajouter à cela la concurrence étran¬
+                    <lb n="N027"/>gère, le marché régulateur de la mode
+                    <lb n="N028"/>qui abandonne insensiblement <placeName>Paris</placeName>
+                    <lb n="N029"/>pour se répartir peu à peu entre 
+                    <lb n="N030"/>
+            <placeName>Vienne</placeName> et <placeName>Londres</placeName>. 
+                    <lb n="N031"/>Ajoutez les efforts des fabriques de
+                    <lb n="N032"/>
+            <placeName>Créfeld</placeName>, <placeName>Zurich</placeName> et <placeName>Côme</placeName> ; la création 
+                    <lb n="N033"/>de l'industrie soyeuse en <placeName>Russie</placeName>, où
+                    <lb n="N034"/>des maisons lyonnaises ont dû aller
+                    <lb n="N035"/>fuir les exigences ouvrières et les 
+                    <lb n="N036"/>exactions douanières. 
+                    <lb n="N037"/>Ajoutez enfin l'émigration continue
+                    <lb n="N038"/>du tissage de <placeName>Lyon</placeName> à la campagne, la 
+                    <lb n="N039"/>création des grandes usines mécani¬
+                    <lb n="N040"/>ques à <placeName>Tarare</placeName>, à l<placeName>'Arbresle</placeName>, dans la 
+                    <lb n="N041"/>
+            <placeName>vallée de la Brevenne</placeName>, dans le <placeName rend="multiline">Haut-</placeName>
+                    <lb n="N042"/>
+            <placeName rend="multiline">Rhône</placeName>, à <placeName>Voiron</placeName>, dans l'<placeName>Ardèche</placeName>, et 
+                    <lb n="N043"/>ces indications sommaires suffisent
+                    <lb n="N044"/>pour démontrer que notre grande
+                    <lb n="N045"/>cité est menacée plus gravement que 
+                    <lb n="N046"/>jamais, qu'elle est atteinte jusqu'aux 
+                    <lb n="N047"/>sources mêmes de sa prospérité et que 
+                    <lb n="N048"/>ce n'est pas trop du concours dévoué
+                    <lb n="N049"/>de tous ses enfants pour la tirer de ce
+                    <lb n="N050"/>mauvais pas. 
+                    <lb n="N051"/>L'industrie lyonnaise traverse donc 
+                    <lb n="N052"/>manifestement une crise des plus gra¬
+                    <lb n="N053"/>ves ; la ville entière en souffre ; toutes 
+                    <lb n="N054"/>les industries de luxe en subissent le 
+                    <lb n="N055"/>contre-coup et il suffit de voir la pei¬
+                    <lb n="N056"/>ne qu'ont les théâtres à se remplir,
+                    <lb n="N057"/>pour se rendre compte de la gêne 
+                    <lb n="N058"/>générale et des sacrifices que chacun 
+                    <lb n="N059"/>doit faire pour équilibrer son budget,
+                    <lb n="N060"/>réduit désormais à la portion con¬
+                    <lb n="N061"/>grue. 
+                    <lb n="N062"/>Or, c'est juste ce moment-là que
+                    <lb n="N063"/>choisissent les meneurs du prétendu </p>
+         <p>
+                    <lb n="N001"/>parti ouvrier, pour se ruer sur cette
+                    <lb n="N002"/>industrie déjà malade et lui porter le
+                    <lb n="N003"/>coup de grâce, bien certains qu'elle 
+                    <lb n="N004"/>se trouve dans l'impuissance de lutter
+                    <lb n="N005"/>et de se défendre.
+                    <lb n="N006"/>Voilà plus de quinze jours que les
+                    <lb n="N007"/>murs de la ville, et particulièrement
+                    <lb n="N008"/>les parapets des pont -- où les <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ou¬</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N009"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>vriers tisseurs</orig>
+                  <reg/>
+               </choice>
+            </rs> de la <placeName>Croix-Rousse</placeName> ne 
+                    <lb n="N010"/>passent jamais -- sont couverts d'affi¬
+                    <lb n="N011"/>ches insensées, anonymes comme 
+                    <lb n="N012"/>toutes les mauvaises actions, annon¬
+                    <lb n="N013"/>çant la formation d'une "commission
+                    <lb n="N014"/>exécutive de 43 membres (?), pour le
+                    <lb n="N015"/>relèvement des salaires". cette com¬
+                    <lb n="N016"/>mission met en interdit, met à l'index
+                    <lb n="N017"/>telles ou telles maisons de soieries,
+                    <lb n="N018"/>nominativement désignées, avec des
+                    <lb n="N019"/>épithètes plus ou moins outrageantes, 
+                    <lb n="N020"/>et déclare qu'on les boycottera toutes, 
+                    <lb n="N021"/>les unes après les autres, jusqu'à ce
+                    <lb n="N022"/>qu'elles aient cédé à ses exigences, 
+                    <lb n="N023"/>c'est-à-dire jusqu'à ce qu'elles aient 
+                    <lb n="N024"/>accepté des prix de façon tels que le 
+                    <lb n="N025"/>marché international des soieries se
+                    <lb n="N026"/>trouvera débarassé des produits de
+                    <lb n="N027"/>
+            <placeName>Lyon</placeName>, trop chers, et livré sans con¬
+                    <lb n="N028"/>currence aux <rs type="product">étoffes</rs> de <placeName>Crèfeld</placeName>, de
+                    <lb n="N029"/>
+            <placeName>Zurich</placeName> et de <placeName>Côme</placeName>. 
+                    <lb n="N030"/>Aux affiches ont succédé les réu¬
+                    <lb n="N031"/>nions de <rs type="occupation">
+               <choice>
+                  <orig>tisseurs</orig>
+                  <reg/>
+               </choice>
+            </rs> qui, trompés par les
+                    <lb n="N032"/>déclamations intéressées et ne regar¬
+                    <lb n="N033"/>dant pas plus loin que l'heure présen¬
+                    <lb n="N034"/>te, sont forcément séduits par la pers¬
+                    <lb n="N035"/>pective immédiate d'une journée plus
+                    <lb n="N036"/>élevée et ne songent pas à se deman¬
+                    <lb n="N037"/>der si cette journée ne sera pas la 
+                    <lb n="N038"/>mort de l'industrie française au profit
+                    <lb n="N039"/>de la concurrence étrangère. 
+                    <lb n="N040"/>Ils ont fait comparaître à leur barre
+                    <lb n="N041"/>les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> qui se sont décidés à s'y
+                    <lb n="N042"/>rendre dans un esprit de conciliation,
+                    <lb n="N043"/>qualifié par plusieurs de faiblesse
+                    <lb n="N044"/>coupable et ils leur ont imposé un 
+                    <lb n="N045"/>délai de 48 heures pour accepter leurs 
+                    <lb n="N046"/>conditions et le relèvement des salai¬
+                    <lb n="N047"/>res sur une marchandise avilie, non
+                    <lb n="N048"/>seulement pour l'avenir, mais encore 
+                    <lb n="N049"/>pour le passé, c'est-à-dire pour les
+                    <lb n="N050"/>pièces en cours de fabrication sur 
+                    <lb n="N051"/>commande et dont le prix de vente, 
+                    <lb n="N052"/>déjà convenu avec l'acheteur, ne peut
+                    <lb n="N053"/>plus être modifié. 
+                    <lb n="N054"/>Ce délai expire aujourd'hui mer¬
+                    <lb n="N055"/>credi et les meneurs attendront au
+                    <lb n="N056"/>
+            <placeName>Palais de la Bourse</placeName> la réponse des <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>fa¬</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N057"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>bricants</orig>
+                  <reg/>
+               </choice>
+            </rs>. 
+                    <lb n="N058"/>Cette réponse n'est pas douteuse. 
+                    <lb n="N059"/>Quand les pouvoirs publics aban¬
+                    <lb n="N060"/>donnent une nation et la livrent à 
+                    <lb n="N061"/>tous les agissements de ses ennemis
+                    <lb n="N062"/>du dehors, il faut ou se démettre ou
+                    <lb n="N063"/>se soumettre.</p>
+         <pb n="11" facs="../images/AD699M5_11.jpg"/>
+         <p>
+                    <lb n="N001"/>Préfecture du Rhône 
+                    <lb n="N002"/>Minute
+                    <lb n="N003"/>Rédigée pour <rs type="matStatus">M.</rs> 
+            <persName>Giudicelli</persName>, le <date month="0" day="0" year="0">19 Décembre 1894</date>
+                    <lb n="N004"/>Visée par M. le Secrétaire Général, le 189
+                    <lb n="N005"/>Expédiée par M. Préfet, le <date month="0" day="0" year="0">24, 12 1894</date>
+                    <lb n="N006"/>Monsieur Le Procureur 
+                    <lb n="N007"/>de la République
+                    <lb n="N008"/>En réponse à la demande
+                    <lb n="N009"/>de renseignements que vous 
+                    <lb n="N010"/>m'avez adressée au sujet de la 
+                    <lb n="N011"/>grève partielle des <rs type="occupation">
+               <choice>
+                  <orig>ouvriers tisseurs</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N012"/>Lyonnais, j'ai l'honneur de 
+                    <lb n="N013"/>vous faire connaître que cette 
+                    <lb n="N014"/>grève qui comprend actuellement les <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N015"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>du tissage à bras</orig>
+                  <reg/>
+               </choice>
+            </rs>, <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ceux du tissage </orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N016"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>mécanique</orig>
+                  <reg/>
+               </choice>
+            </rs> et les <rs type="occupation">
+               <choice>
+                  <orig>chefs d'ateliers</orig>
+                  <reg/>
+               </choice>
+            </rs>, se 
+                    <lb n="N017"/>poursuit sans incidents sérieux. 
+                    <lb n="N018"/>L'origine du conflit est la 
+                    <lb n="N019"/>revendication de la part des <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N020"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>tisseurs à bras</orig>
+                  <reg/>
+               </choice>
+            </rs> de l'application du <rs type="revenue" rend="multiline">
+               <bibl type="tarif" rend="multiline">tarif</bibl>
+            </rs>
+            <bibl type="tarif" rend="multiline"/>
+                    <lb n="N021"/>
+            <rs type="revenue" rend="multiline">
+               <bibl type="tarif" rend="multiline">accepté par les patrons en 1885</bibl>
+            </rs>
+            <bibl type="tarif" rend="multiline"/>, <rs type="revenue">tarif</rs>     
+         </p>
+         <p>
+                    <lb n="N001"/>Secrétariat Général
+                    <lb n="N002"/>Pour la police
+                    <lb n="N003"/>4e Division 
+                    <lb n="N004"/>1e Bureau
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>Objet
+                    <lb n="N009"/>
+            <bibl rend="multiline">Crise de l'Industrie</bibl>
+                    <lb n="N010"/>
+            <bibl rend="multiline">du tissage Lyonnais</bibl>
+         </p>
+         <pb n="12" facs="../images/AD699M5_12.jpg"/>
+         <p>
+                    <lb n="N001"/>dont <rs type="revenue" rend="multiline">les prix, de 30% plus élévés que ceux </rs>
+                    <lb n="N002"/>
+            <rs type="revenue" rend="multiline">
+               <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">payés</hi> payés réellement</rs>, n'ont jamais été appliqués
+                    <lb n="N003"/>mais que les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> n'exigeraient pas à cause 
+                    <lb n="N004"/>de la pénurie des affaires jusqu'à ces
+                    <lb n="N005"/>derniers temps. 
+                    <lb n="N006"/>Les nombreuses réunions des <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> 
+                    <lb n="N007"/>et <rs type="occupation">
+               <choice>
+                  <orig>chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> de divers syndicats, suivis
+                    <lb n="N008"/>d'entrevues avec les <rs type="occupation">
+               <choice>
+                  <orig>patrons</orig>
+                  <reg/>
+               </choice>
+            </rs>, n'ayant pas 
+                    <lb n="N009"/>abouti à une entente, la grève partielle a
+                    <lb n="N010"/>été votée à une grande majorité de préférence
+                    <lb n="N011"/>à la grève générale qui a été repoussée à la 
+                    <lb n="N012"/>presque unanimité ; Aussitôt, quatre
+                    <lb n="N013"/>premières maisons ont été nommément
+                    <lb n="N014"/>mises à l'index, puis d'autres, toujours
+                    <lb n="N015"/>par séries de quatre, le sont au fur et à mesure
+                    <lb n="N016"/>que les <rs type="occupation">
+               <choice>
+                  <orig>patrons</orig>
+                  <reg/>
+               </choice>
+            </rs> viennent à résipiscence. 
+                    <lb n="N017"/>Encouragés par les conseils de la 
+                    <lb n="N018"/>"<orgName rend="multiline">Commission générale ouvrière pour le relèvement</orgName>
+                    <lb n="N019"/>
+            <orgName rend="multiline">des salaires</orgName>" et pour le succès de leurs commandes, 
+                    <lb n="N020"/>les "<rs type="occupation">
+               <choice>
+                  <orig>Chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs>" et les "<rs type="occupation">
+               <choice rend="multiline">
+                  <orig>ouvriers du tissage</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N021"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>mécanique</orig>
+                  <reg/>
+               </choice>
+            </rs>" ont bientôt pris part au 
+                    <lb n="N022"/>mouvement de revendication et ont, de leur  </p>
+         <pb n="13" facs="../images/AD699M5_13.jpg"/>
+         <p>
+                    <lb n="N001"/>côté, adopté le procédé d'une série de 
+                    <lb n="N002"/>mises à l'index successives pour un certain
+                    <lb n="N003"/>nombre de maisons déjà. 
+                    <lb n="N004"/>La mise continue ainsi sans prendre
+                    <lb n="N005"/>d'unité , les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> et <rs type="occupation">
+               <choice>
+                  <orig>chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> fermes
+                    <lb n="N006"/>mais calmes même dans leurs réunions
+                    <lb n="N007"/>et démarches, les <rs type="occupation">
+               <choice>
+                  <orig>patrons</orig>
+                  <reg/>
+               </choice>
+            </rs> ne cédant le
+                    <lb n="N008"/>terrain que pas à pas. 
+                    <lb n="N009"/>Quant au nombre exact des métiers
+                    <lb n="N010"/>abandonnés,il est impossible de le 
+                    <lb n="N011"/>connaître pour le moment, ce nombre 
+                    <lb n="N012"/>variant à chaque instant suivant le
+                    <lb n="N013"/>nombre que celui des <rs type="occupation">
+               <choice>
+                  <orig>chef d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> et des
+                    <lb n="N014"/>
+            <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> employés pour les maisons à 
+                    <lb n="N015"/>l'index et aussi, des dissidents est
+                    <lb n="N016"/>plus ou moins grand ; en tout cas, 
+                    <lb n="N017"/>ce nombre n'a jamais atteint l'impor-
+                    <lb n="N018"/>tance que se sont plu à lui donner
+                    <lb n="N019"/>les organes d'une certaine presse. 
+                    <lb n="N020"/>Agréez.... la plus
+                    <lb n="N021"/>
+         </p>
+         <pb n="14" facs="../images/AD699M5_14.jpg"/>
+         <p>
+                    <lb n="N001"/>
+            <date>20 Décembre</date>
+                    <lb n="N002"/>Procès - Verbal de la réunion organisée hier au soir
+                    <lb n="N003"/>à <time>huit heure</time> à la <placeName>Brasserie Française</placeName>, <address>rue des écoles</address>
+                    <lb n="N004"/>Aucun incident ayant donné lieu à l'intervention
+                    <lb n="N005"/>n'est à signaler. 
+                    <lb n="N006"/>Nombre d'assistants : 2 200 
+                    <lb n="N007"/>La Séance est ouverte à <time>9heures et demie</time>  sous la 
+                    <lb n="N008"/>présidence du <rs type="matStatus">Sieur</rs> 
+            <persName>Borias</persName>. 
+                    <lb n="N009"/>Le Bureau est constitué de la façon suivante : 
+                    <lb n="N010"/>
+            <rs type="matStatus">MM</rs>. <persName>Borias</persName>, président ; <persName>Labrosse-Bardin</persName> et 
+                    <lb n="N011"/>
+            <persName>Sage</persName>, Assesseurs. 
+                    <lb n="N012"/>Dès la constitution du bureau effectuée, le Président
+                    <lb n="N013"/>invite les <rs type="occupation">
+               <choice>
+                  <orig>chefs d'Atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> et les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> à former 
+                    <lb n="N014"/>deux camps. <rs type="occupation">
+               <choice>
+                  <orig>Les chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> à la droite du bureau ; 
+                    <lb n="N015"/>les <rs type="occupation">
+               <choice>
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs> à la gauche. Il invite aussi les conseillers 
+                    <lb n="N016"/>prud'hommes à prendre place au bureau, et il 
+                    <lb n="N017"/>remercie les assistants d'avoir répondu en aussi grand 
+                    <lb n="N018"/>nombre à l'appel des <orgName>Chambres Syndicales</orgName>. 
+                    <lb n="N019"/>Le citoyen <persName>Polo</persName>, prend la parole. 
+                    <lb n="N020"/>Il rend compte du résultat obtenu sur les 4
+                    <lb n="N021"/>Maisons mises à l'index. La <orgName>Maison Chavent</orgName> (art 
+                    <lb n="N022"/>façonné s'est rendue aux justes réclamations des <rs type="occupation">
+               <choice>
+                  <orig>tisseurs</orig>
+                  <reg/>
+               </choice>
+            </rs> ; 
+                    <lb n="N023"/>elle a accepté le <rs type="revenue">
+               <bibl type="tarif">tarif de 85</bibl>
+            </rs>
+            <bibl type="tarif"/>, en son entier. Seulement 
+                    <lb n="N024"/>il a peur cette maison ne tienne plus d'ici 
+                    <lb n="N025"/>deux ou trois mois, l'engagement qu'elle prend aujourd'hui. 
+                    <lb n="N026"/>Il invite donc l'<rs type="occupation">
+               <choice>
+                  <orig>ouvrier</orig>
+                  <reg/>
+               </choice>
+            </rs> à se grouper en vue de cette 
+                    <lb n="N027"/>éventualité. La <orgName>Maison Atuyer</orgName>. Les <rs type="occupation">
+               <choice>
+                  <orig>chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N028"/>de cette Maison ont fait tout ce qu'il était possible 
+                    <lb n="N029"/>de faire et ils sont arrivés à lui faire accepter le 
+                    <lb n="N030"/>
+            <rs type="revenue">
+               <bibl type="document">tarif de 1885</bibl>
+            </rs>
+            <bibl type="document"/>, en ce qui concerne les façonnés. Cette </p>
+         <pb n="15" facs="../images/AD699M5_15.jpg"/>
+         <p>
+                    <lb n="N001"/>Cette maison ne s'est pas encore prononcée sur les 
+                    <lb n="N002"/>unis, par ce motif, que d'autres dans son genre font la
+                    <lb n="N003"/>même chose. La <orgName>maison Algoud</orgName>. Cette Maison est, 
+                    <lb n="N004"/>récalcitrante ; elle ne veut accorder qu'<rs type="revenue" rend="multiline">une augmentation</rs>
+                    <lb n="N005"/>
+            <rs type="revenue" rend="multiline">de 15% sur les pièces en cours</rs> et ne donne le <bibl rend="multiline">
+               <rs type="revenue" rend="multiline">tarif de </rs>
+               <rs type="revenue" rend="multiline"/>
+            </bibl>
+            <rs type="revenue" rend="multiline"/>
+                    <lb n="N006"/>
+            <bibl rend="multiline">
+               <rs type="revenue" rend="multiline">1885</rs>
+               <rs type="revenue" rend="multiline"/>
+            </bibl>, qu'<rs type="revenue" rend="multiline"/>, qu'<rs type="solde">après l'achèvement de ces pièces</rs>. La <orgName rend="multiline">Maison</orgName>
+                    <lb n="N007"/>
+            <orgName rend="multiline">Ducoté et Coté</orgName>. Cette Maison n'a pas encore donné une 
+                    <lb n="N008"/>réponse. Il est bon de dire, dit l'orateur, que les <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>chefs</orig>
+                  <reg/>
+               </choice>
+            </rs>
+                    <lb n="N009"/>
+            <rs type="occupation">
+               <choice rend="multiline">
+                  <orig>d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> de cette maison ont montré moins d'ardeur 
+                    <lb n="N010"/>que leurs collègues au même titre. La <orgName>Maison Beraud</orgName>
+                    <lb n="N011"/>est prête à accepter le <rs type="revenue">tarif de 1885</rs>. 
+                    <lb n="N012"/>Divers autres orateurs prennent la parole, 
+                    <lb n="N013"/>notamment les citoyens <persName sex="h">Naudol</persName>, <persName sex="h">Guiromet</persName> et 
+                    <lb n="N014"/>
+            <persName>Farjat</persName>. 
+                    <lb n="N015"/>Le Premier invite les <rs type="occupation">
+               <choice>
+                  <orig>tisseurs</orig>
+                  <reg/>
+               </choice>
+            </rs> à se coaliser contre
+                    <lb n="N016"/>les <rs type="occupation">
+               <choice>
+                  <orig>fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs>, à l'effet d'obliger ceux-ci à accepter
+                    <lb n="N017"/>les conditions demandées. 
+                    <lb n="N018"/>Le Second donne lecture du Procès-Verbal du <date rend="multiline">19</date>
+                    <lb n="N019"/>
+            <date rend="multiline">Avril 1894</date> et la constitution d'une commission de 
+                    <lb n="N020"/>conciliation qui serait ainsi composée : 
+                    <lb n="N021"/>5 <rs type="occupation">
+               <choice>
+                  <orig>Patrons fabricants</orig>
+                  <reg/>
+               </choice>
+            </rs> ; 5 <rs type="occupation">
+               <choice>
+                  <orig>patrons tisseurs</orig>
+                  <reg/>
+               </choice>
+            </rs> ; 
+                    <lb n="N022"/>2 Prud'hommes ; 1 conseiller municipal. 
+                    <lb n="N023"/>Il invite l'<rs type="occupation">
+               <choice>
+                  <orig>ouvrier</orig>
+                  <reg/>
+               </choice>
+            </rs> à cesser le travail pour les 
+                    <lb n="N024"/>Maisons qui refuseront l'augmentation. 
+                    <lb n="N025"/>Le 3e, le citoyen <persName>Farjat</persName> invite toute la <orgName rend="multiline">corporation</orgName>
+                    <lb n="N026"/>
+            <orgName rend="multiline">des <rs type="occupation">
+                  <choice>
+                     <orig>tisseurs</orig>
+                     <reg/>
+                  </choice>
+               </rs>
+            </orgName> à se mêler à la discussion. Il faut, dit-il
+                    <lb n="N027"/>que la grande famille ouvrière soyeuse discute et 
+                    <lb n="N028"/>délibère si elle doit vivre à la campagne où à la 
+                    <lb n="N029"/>ville.</p>
+         <pb n="16" facs="../images/AD699M5_16.jpg"/>
+         <p>
+                    <lb n="N001"/>Le citoyen <persName sex="h">Polo</persName>, annonce qu'il apprend qui dans une 
+                    <lb n="N002"/>réunion tenu pour la <orgName>Maison Gindre et Cie</orgName>, la grève de cette
+                    <lb n="N003"/>maison vient d'être votée par 143 voix contre 3 et un bulletin
+                    <lb n="N004"/>blanc. 
+                    <lb n="N005"/>Après toute une série de discussion sans
+                    <lb n="N006"/>fin, le Citoyen <persName sex="h">Polo</persName>, demande à l'essemblée de bien vouloir
+                    <lb n="N007"/>ne pas se séparer avant d'avoir pris des résolutions. 
+                    <lb n="N008"/>Plusieurs fois, les citoyens <persName sex="h">Naudot</persName>, <persName>Besacier</persName> 
+                    <lb n="N009"/>et <persName sex="h">Badin</persName> qui prennent la parole comme délégués 
+                    <lb n="N010"/>des chambres syndicales sont cause d'un violent 
+                    <lb n="N011"/>tumulte dans la salle. Le citoyen <persName>Naudot</persName> voyant qu'il 
+                    <lb n="N012"/>lui est impossible de placer une seule parole se retire. 
+                    <lb n="N013"/>Les propositions suivantes sont posées et
+                    <lb n="N014"/>après discussion, elles sont adoptées. 
+                    <lb n="N015"/>Réunion aujourd'hui des <rs type="occupation">
+               <choice>
+                  <orig>chefs d'atelier</orig>
+                  <reg/>
+               </choice>
+            </rs> des maisons
+                    <lb n="N016"/>ci-après : <orgName>Maison Schutz</orgName>, <placeName>Salle Bichommier</placeName>,<address rend="multiline"> Avenue</address>
+                    <lb n="N017"/>
+            <address rend="multiline">des Tapis, 1</address> ; <orgName>Maison Berand</orgName>, <placeName>Salle Pelletier</placeName>, <address rend="multiline">rue</address>
+                    <lb n="N018"/>
+            <address rend="multiline">Dumenge, 10</address> ; <orgName>Maison Poncet</orgName>, <placeName>Salle Millet</placeName>, <address rend="multiline">rue</address>
+                    <lb n="N019"/>
+            <address rend="multiline">de la Terrasse, 2</address> ; <orgName>Maison Gally et Melon</orgName>, <placeName>salle Chevallier</placeName>,
+                    <lb n="N020"/>
+            <address>159, Boulevard de la Croix Rousse</address>. 
+                    <lb n="N021"/>La continuation de la mise à l'index des <orgName rend="multiline">Maison</orgName>
+                    <lb n="N022"/>
+            <orgName rend="multiline">Algoud, frères</orgName> et <orgName>Coté, Ducoté et Cie</orgName>. 
+                    <lb n="N023"/>L'assemblée a également décidé la mise à l'index
+                    <lb n="N024"/>de quatre nouvelles maisons, les maisons <orgName rend="multiline">Guivet-</orgName>¬
+                    <lb n="N025"/>
+            <orgName rend="multiline">Delaroche</orgName> ; <orgName>Chaverol et Cie</orgName>, <orgName rend="multiline">Riverdy (Ancienne</orgName>
+                    <lb n="N026"/>
+            <orgName rend="multiline">Maison Bejuy)</orgName> ; <orgName>Poncet père et fils</orgName>. 
+                    <lb n="N027"/>A la fin de la réunion, le <rs type="matStatus">sieur</rs> 
+            <persName sex="h">Vetroux</persName>, rédacteur
+                    <lb n="N028"/>au <orgName>Progrès</orgName> a annoncé de la part de <rs type="matStatus">Monsieur</rs> 
+            <persName sex="h">Delaroche</persName> 
+         </p>
+         <pb n="17" facs="../images/AD699M5_17.jpg"/>
+         <p>
+                    <lb n="N001"/>la mise à la disposition des grévistes d'une 
+                    <lb n="N002"/>somme de <measure type="sum">
+               <certainty cert="low">cinq cents francs<!--Comment préciser le type de cette "rémunération" ?--></certainty>
+               <certainty cert="low"/>
+            </measure> et l'ouverture<certainty cert="low"/> et l'ouverture
+                    <lb n="N003"/>d'une souscription en leur faveur dans les colonnes
+                    <lb n="N004"/>du <orgName>Journal "Le Progrès"</orgName> 
+                    <lb n="N005"/>De vifs applaudissements ont salué cette 
+                    <lb n="N006"/>déclaration. 
+                    <lb n="N007"/>Le <rs type="matStatus">Sieur</rs> 
+            <persName sex="h">Simon</persName>, rédacteur, au Journal "Le 
+                    <lb n="N008"/>Peuple" a également annoncé à l'assemblée 
+                    <lb n="N009"/>qu'une somme de <measure type="sum">
+               <certainty cert="low">500 francs<!--Comment préciser le type de cette "rémunération" ?--></certainty>
+               <certainty cert="low"/>
+            </measure> serait fournie<certainty cert="low"/> serait fournie
+                    <lb n="N010"/>par son journal aux grévistes. 
+                    <lb n="N011"/>La séance a été levée à <time>minuit un quart</time>
+                    <lb n="N012"/>Le commissaire de police
+                    <lb n="N013"/>
+            <persName sex="h">Bellua</persName>
+         </p>
+         <pb n="18" facs="../images/AD699M5_18.jpg"/>
+         <p>
+                    <lb n="N001"/>du 20 décembre 1894
+                    <lb n="N002"/>Mouvement des tisseurs
+                    <lb n="N003"/>Tissage mécanique
+                    <lb n="N004"/>M<hi rend="fontSize:0.0; kerning:0; superscript:true;">on</hi> Gindre</p>
+         <p>
+                    <lb n="N001"/>Rapport
+                    <lb n="N002"/>Ce matin une délégation composée
+                    <lb n="N003"/>de 3 <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> de la <orgName>maison Gindre</orgName> et 
+                    <lb n="N004"/>3 membres du syndicat s'est rendue auprès
+                    <lb n="N005"/>de <rs type="matStatus">M.</rs> 
+            <persName sex="h">Gindre</persName> pour lui demander une 
+                    <lb n="N006"/>augmentation des salaires. 
+                    <lb n="N007"/>Ce dernier a répondu qu'il y avait 
+                    <lb n="N008"/>trois semaines environ qu'il avait aug¬
+                    <lb n="N009"/>menté de 30% ses <rs type="occupation">
+               <choice>
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> et <rs type="occupation">
+               <choice sex="h">
+                  <orig>ouvriers</orig>
+                  <reg/>
+               </choice>
+            </rs>,
+                    <lb n="N010"/>qu'actuellement il ne pouvait pas accorder
+                    <lb n="N011"/>davantage ; que si un personnel persis-
+                    <lb n="N012"/>tait à exiger une augmentation, il fer-
+                    <lb n="N013"/>merait son usine, qu'il n'y avait donc 
+                    <lb n="N014"/>pas lieu de continuer des pourparlers sur 
+                    <lb n="N015"/>cette question. 
+                    <lb n="N016"/>La délégation s'est alors retirée.
+                    <lb n="N017"/>A <time>2 heures de l'après-midi</time>, une 
+                    <lb n="N018"/>centaine d'<rs type="occupation">
+               <choice sex="f">
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> ont repris le travail
+                    <lb n="N019"/>tandis que ce matin il n'y en avait que 
+                    <lb n="N020"/>46. 
+                    <lb n="N021"/>Une vingtaine de grévistes station¬
+                    <lb n="N022"/>naient à l'entrée de l'usine, mais il ne 
+                    <lb n="N023"/>s'est produit aucun incident. 
+                    <lb n="N024"/>Après la rentrée, 4 à 5 grévistes
+                    <lb n="N025"/>seulement sont restées aux abords de l'usine
+                    <lb n="N026"/>pour surveiller les <rs type="occupation">
+               <choice sex="f">
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> qui reprendraient 
+                    <lb n="N027"/>le travail. 
+                    <lb n="N028"/>La mise à l'index de la <orgName rend="multiline">maison </orgName>
+                    <lb n="N029"/>
+            <orgName rend="multiline">Gindre</orgName> a été votée hier soir dans une  </p>
+         <pb n="19" facs="../images/AD699M5_19.jpg"/>
+         <p>
+                    <lb n="N001"/>réunion à laquelle assistaient exclusivement 
+                    <lb n="N002"/>150 <rs type="occupation">
+               <choice sex="f">
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> de l'usine par 143 voix contre 3. 
+                    <lb n="N003"/>
+            <placeName>Lyon</placeName>, le <date>20 décembre 1894</date>
+                    <lb n="N004"/>Le commissaire spécial
+                    <lb n="N005"/>
+            <persName sex="h">L. Perny</persName> 
+         </p>
+         <pb n="20" facs="../images/AD699M5_20.jpg"/>
+         <p>
+                    <lb n="N001"/>du 20 Décembre 1894
+                    <lb n="N002"/>Préfecture du Rhône 
+                    <lb n="N003"/>Commissariat Spécial
+                    <lb n="N004"/>Mouvement des tisseurs 
+                    <lb n="N005"/>Tissage mécanique
+                    <lb n="N006"/>M<hi rend="fontSize:0.0; kerning:0; superscript:true;">on</hi> Gindre
+                    <lb n="N007"/>Pour rapports précédents</p>
+         <p>
+                    <lb n="N001"/>Rapport
+                    <lb n="N002"/>Ce matin 46 <rs type="occupation">
+               <choice sex="f">
+                  <orig>ouvrières tisseuses</orig>
+                  <reg/>
+               </choice>
+            </rs> de 
+                    <lb n="N003"/>la <orgName>maison Gindre</orgName>, sur 200 qu'elle
+                    <lb n="N004"/>occupe ont repris le travail. Il y 
+                    <lb n="N005"/>a en outre 200 autres <rs type="occupation">
+               <choice sex="f">
+                  <orig>ouvrières</orig>
+                  <reg/>
+               </choice>
+            </rs> tant
+                    <lb n="N006"/>
+            <rs type="occupation">
+               <choice>
+                  <orig>apprêteuses</orig>
+                  <reg/>
+               </choice>
+            </rs> que <rs type="occupation">
+               <choice>
+                  <orig>dévideuses</orig>
+                  <reg/>
+               </choice>
+            </rs> qui ne 
+                    <lb n="N007"/>sont nullement comprises dans le 
+                    <lb n="N008"/>mouvement et continuent à travailler. 
+                    <lb n="N009"/>Il y avait ce matin quelques 
+                    <lb n="N010"/>groupes aux abords de l'usine
+                    <lb n="N011"/>mais ils ont été immédiatement
+                    <lb n="N012"/>dispersés par les gardiens de la paix
+                    <lb n="N013"/>et aucun incident ne s'est produit. 
+                    <lb n="N014"/>La moyenne du salaire des
+                    <lb n="N015"/>
+            <rs type="occupation">
+               <choice>
+                  <orig>tisseuses</orig>
+                  <reg/>
+               </choice>
+            </rs>, est calculée comme suit : 
+                    <lb n="N016"/>
+            <rs type="revenue" rend="multiline">Moyenne du <rs type="revenue-type">salaire journalier</rs>
+            </rs>
+                    <lb n="N017"/>
+            <rs type="revenue" rend="multiline">des 10 plus mauvaises <rs type="occupation">
+                  <choice>
+                     <orig>ouvrières</orig>
+                     <reg/>
+                  </choice>
+               </rs>, <measure type="sum" rend="multiline">2f, </measure>
+            </rs>
+                    <lb n="N018"/>
+            <measure type="sum" subtype="absolu" rend="multiline">
+               <rs type="revenue" rend="multiline">26</rs>
+            </measure>
+            <rs type="revenue" rend="multiline"/>. pendant le mois dernier. 
+                    <lb n="N019"/>
+            <rs type="revenue" rend="multiline">Moyenne du <rs type="revenue-type">salaire journalier</rs>
+            </rs>
+                    <lb n="N020"/>
+            <rs type="revenue" rend="multiline">des 10 meilleures <rs type="occupation">
+                  <choice>
+                     <orig>ouvrières</orig>
+                     <reg/>
+                  </choice>
+               </rs>, <measure type="sum">3f01</measure>
+            </rs>
+                    <lb n="N021"/>Ce qui donne une <rs type="revenue" rend="multiline">moyenne </rs>
+                    <lb n="N022"/>
+            <rs type="revenue" rend="multiline">de <rs type="revenue-type">salaire journalier</rs> de <measure type="sum" subtype="absolu">2f68</measure>
+            </rs>. 
+                    <lb n="N023"/>Les heures d'entrées et de sorties
+                    <lb n="N024"/> sont exactement les suivantes : 
+                    <lb n="N025"/>Matin : Entrée. <time>7heures</time> - sortie <time>midi</time> 
+                    <lb n="N026"/>Soir : Entrée <time>2h</time>. - sortie <time>7h</time> 
+                    <lb n="N027"/>
+            <placeName>Lyon</placeName>, le <date>20 décembre 1894</date>
+                    <lb n="N028"/>Le commissaire spécial : <persName sex="h">L. Perny</persName>
+         </p>
+      </body>
+   </text>
+</TEI>

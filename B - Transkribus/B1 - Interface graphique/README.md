@@ -1,0 +1,12 @@
+- `01-Tkb_Server.png` est une capture d'écran de la page d'accueil de Transkribus, qui s'ouvre sur l'onglet "Server".
+- `02-Tkb_Overview.png` est une capture d'écran de la page avec l'onglet "Overview" développé.
+- `03-Tkb_Layout.png` est une capture d'écran de la page avec l'onglet "Layout" développé.
+- `04-Tkb_Metadata_document.png` est une capture d'écran de la page avec les onglets "Metadata" et "document" développés.
+- `05-Tkb_Metadata_structural.png` est une capture d'écran de la page avec les onglets "Metadata" et "structural" développés.
+- `06-Tkb_Metadata_textual.png` est une capture d'écran de la page avec les onglets "Metadata" et "textual" développés.
+- `07-Tkb_Metadata_textual-configuration.png` est une capture d'écran de la fenêtre de création de tags personnalisés. 
+- `08-Tkb_Metadata_comments.png` est une capture d'écran de la page avec les onglets "Metadata" et "comments" développés.
+- `09-Tkb_Tools.png` est une capture d'écran de la page avec l'onglet "Tools" développé.
+- `10-Tkb_Tools_HTR-model.png` est une capture d'écran de la fenêtre présentant les caractéristiques des modèles d'HTR disponibles pour la collection Time Us.
+- `11-Tkb_export_PAGE.png` est une capture d'écran de la fenêtre d'export des fichiers, sur l'onglet dédié au format d'export "Transkribus Document".
+- `12-Tkb_export_TEI.png` est une capture d'écran de la fenêtre d'export des fichiers, sur l'onglet dédié au format d'export "TEI".

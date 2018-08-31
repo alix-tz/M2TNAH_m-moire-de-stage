@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:tu="timeUs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uro.citlab.module.la.core.CITlab_LA_ML:v=?0.1
+TRP</Creator>
+<Created>2018-03-27T11:06:17.579+02:00</Created>
+<LastChange>2018-03-30T11:11:00.232+02:00</LastChange>
+<tu:title>2I47A/Police politique1</tu:title><tu:desc>No description.</tu:desc><tu:pagenumber>42</tu:pagenumber></Metadata>
+<Page imageFilename="IMG_0151.JPG" imageHeight="6000" imageWidth="4000" tu:id="42" tu:url="https://dbis-thure.uibk.ac.at/f/Get?id=DFQJZBVSEHURCNZRABFFAVSX&amp;fileType=view">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1522401060270">
+<RegionRefIndexed index="0" regionRef="region_1522400999680_1"/>
+<RegionRefIndexed index="1" regionRef="r1"/>
+<RegionRefIndexed index="2" regionRef="r2"/>
+</OrderedGroup>
+</ReadingOrder>
+<TextRegion custom="readingOrder {index:0;}" id="region_1522400999680_1">
+<Coords points="628,548 628,618 1993,618 1993,548"/>
+<TextLine custom="readingOrder {index:0;} work {offset:0; length:9;} montant {offset:10; length:9; continued:true;}" id="line_1522400999805_2">
+<Coords points="628,548 1993,548 1993,618 628,618"/>
+<TextEquiv>
+<Unicode>Chapelier 410 à 350</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="line_1522401001804_3">
+<Coords points="885,550 899,550 899,596 885,596"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="line_1522401009727_4">
+<Coords points="621,587 2034,587 2034,655 621,655"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Chapelier 410 à 350
+
+</Unicode>
+</TextEquiv>
+</TextRegion>
+<TextRegion custom="readingOrder {index:1;}" id="r1" orientation="0.0">
+<Coords points="526,790 526,1180 1178,1180 1178,790"/>
+<TextLine custom="readingOrder {index:0;}" id="r1l1">
+<Coords points="538,950 564,950 590,950 616,950 642,950 668,950 694,950 720,950 746,950 772,950 798,948 824,948 850,945 876,943 902,940 902,790 876,793 850,795 824,798 798,798 772,800 746,800 720,800 694,800 668,800 642,800 616,800 590,800 564,800 538,800"/>
+<Baseline points="538,900 564,900 590,900 616,900 642,900 668,900 694,900 720,900 746,900 772,900 798,898 824,898 850,895 876,893 902,890"/>
+<TextEquiv>
+<Unicode>Cerdau</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="r1l2">
+<Coords points="526,1180 558,1178 591,1176 623,1175 656,1174 689,1171 721,1170 754,1168 786,1166 819,1164 852,1162 884,1162 917,1159 949,1155 982,1153 1015,1150 1047,1147 1080,1141 1112,1137 1145,1133 1178,1126 1178,976 1145,983 1112,987 1080,991 1047,997 1015,1000 982,1003 949,1005 917,1009 884,1012 852,1012 819,1014 786,1016 754,1018 721,1020 689,1021 656,1024 623,1025 591,1026 558,1028 526,1030"/>
+<Baseline points="526,1130 558,1128 591,1126 623,1125 656,1124 689,1121 721,1120 754,1118 786,1116 819,1114 852,1112 884,1112 917,1109 949,1105 982,1103 1015,1100 1047,1097 1080,1091 1112,1087 1145,1083 1178,1076"/>
+<TextEquiv>
+<Unicode>Amberieu</Unicode>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>Cerdau
+Amberieu</Unicode>
+</TextEquiv>
+</TextRegion>
+<TextRegion custom="readingOrder {index:2;}" id="r2" orientation="0.0">
+<Coords points="1252,780 1252,1094 2018,1094 2018,780"/>
+<TextLine custom="readingOrder {index:0;} montant {offset:0; length:4; continued:true;} gap {offset:0; length:0; continued:true;}" id="r2l1">
+<Coords points="1704,838 1729,836 1754,835 1779,834 1805,835 1830,836 1855,837 1880,838 1906,840 1906,786 1880,784 1855,783 1830,782 1805,781 1779,780 1754,781 1729,782 1704,784"/>
+<Baseline points="1704,820 1729,818 1754,817 1779,816 1805,817 1830,818 1855,819 1880,820 1906,822"/>
+<TextEquiv>
+<Unicode>2 75</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;} montant {offset:0; length:1; continued:true;} gap {offset:0; length:0; continued:true;}" id="r2l2">
+<Coords points="1252,842 1277,844 1302,843 1328,841 1353,837 1378,834 1404,834 1404,780 1378,780 1353,783 1328,787 1302,789 1277,790 1252,788"/>
+<Baseline points="1252,824 1277,826 1302,825 1328,823 1353,819 1378,816 1404,816"/>
+<TextEquiv>
+<Unicode>2</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:2;} montant {offset:0; length:9; continued:true;} gap {offset:0; length:0; continued:true;}" id="r2l3">
+<Coords points="1300,1076 1335,1071 1371,1067 1407,1064 1443,1062 1479,1058 1515,1055 1551,1053 1587,1050 1623,1047 1659,1044 1694,1042 1730,1040 1766,1038 1802,1037 1838,1034 1874,1034 1910,1032 1946,1031 1982,1030 2018,1030 2018,1000 1982,1000 1946,1001 1910,1002 1874,1004 1838,1004 1802,1007 1766,1008 1730,1010 1694,1012 1659,1014 1623,1017 1587,1020 1551,1023 1515,1025 1479,1028 1443,1032 1407,1034 1371,1037 1335,1041 1300,1046"/>
+<Baseline points="1300,1066 1335,1061 1371,1057 1407,1054 1443,1052 1479,1048 1515,1045 1551,1043 1587,1040 1623,1037 1659,1034 1694,1032 1730,1030 1766,1028 1802,1027 1838,1024 1874,1024 1910,1022 1946,1021 1982,1020 2018,1020"/>
+<TextEquiv>
+<Unicode>250 a 450</Unicode>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:3;}" id="r2l4">
+<Coords points="1276,1078 1304,1086 1332,1094 1332,1064 1304,1056 1276,1048"/>
+<Baseline points="1276,1068 1304,1076 1332,1084"/>
+</TextLine>
+<TextEquiv>
+<Unicode>2 75
+2
+250 a 450
+</Unicode>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

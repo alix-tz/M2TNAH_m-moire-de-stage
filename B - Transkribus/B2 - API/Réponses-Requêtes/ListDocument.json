@@ -1,0 +1,823 @@
+[
+    {
+        "type": "trpDocMetadata",
+        "docId": 35199,
+        "title": "6UP1_373",
+        "uploadTimestamp": 1515507246202,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 15,
+        "pageId": 1181082,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=SVIOUMFEMMCHGWUVODERFMFU&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=SVIOUMFEMMCHGWUVODERFMFU&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_35199",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 35200,
+        "title": "6UP1_2398",
+        "uploadTimestamp": 1515507357682,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 18,
+        "pageId": 1181097,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=WEYEEHBIRVVSNUIBOCWMKSJS&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=WEYEEHBIRVVSNUIBOCWMKSJS&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_35200",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 35202,
+        "title": "10M_392",
+        "uploadTimestamp": 1515507410277,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 8,
+        "pageId": 1181103,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=RUKMCKVJCFCSTFPCZHARWWJR&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=RUKMCKVJCFCSTFPCZHARWWJR&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_35202",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 35205,
+        "title": "HH267",
+        "author": "Prud'hommes",
+        "uploadTimestamp": 1515507661349,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 38,
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_35205",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 5296,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 35271,
+        "title": "HH214",
+        "uploadTimestamp": 1515592310935,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 11,
+        "pageId": 1182308,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=PDUJAFGNNSHUBPOJZWZZWKAL&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=PDUJAFGNNSHUBPOJZWZZWKAL&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_35271",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 5296,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 36685,
+        "title": "Ouvriers des 2 mondes",
+        "uploadTimestamp": 1516888529185,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 480,
+        "pageId": 1222234,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=UIKXZRNUZPAPWZGLPHSODTRN&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=UIKXZRNUZPAPWZGLPHSODTRN&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_36685",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 37568,
+        "title": "HH260",
+        "uploadTimestamp": 1517588151712,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 63,
+        "pageId": 1259568,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=VMGMACGCFNKGBAUKNJKBCYPR&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=VMGMACGCFNKGBAUKNJKBCYPR&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_37568",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 5296,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 37569,
+        "title": "HH265",
+        "uploadTimestamp": 1517588435491,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 205,
+        "pageId": 1259632,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=XAXZIAIMVBHSGXPPJADTOPYH&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=XAXZIAIMVBHSGXPPJADTOPYH&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_37569",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 5296,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38642,
+        "title": "2I47A_Police politique2",
+        "uploadTimestamp": 1518605399591,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 123,
+        "pageId": 1475946,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=KRUQDNJPFYSFRPAVYSQYXJQY&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=KRUQDNJPFYSFRPAVYSQYXJQY&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38642",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38648,
+        "title": "10M99",
+        "uploadTimestamp": 1518610882168,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 77,
+        "pageId": 1477795,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=UHCMMFUTKTEOFPZBCMFTDTNY&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=UHCMMFUTKTEOFPZBCMFTDTNY&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38648",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38740,
+        "title": "2I47 Police Politique (4)",
+        "uploadTimestamp": 1518690152923,
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 77,
+        "pageId": 1497724,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=OYHTXPTFOVUUXPSWQOPJVTNI&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=OYHTXPTFOVUUXPSWQOPJVTNI&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38740",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38745,
+        "title": "AD 59 - 5 U 1 / 2 - Conseil des Prud'hommes de Tourcoing 1871",
+        "uploadTimestamp": 1518690348086,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 11737,
+        "nrOfPages": 6,
+        "pageId": 1497770,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=TAXNLVTGTCCRZUSSMEMLXPRU&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=TAXNLVTGTCCRZUSSMEMLXPRU&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38745",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38747,
+        "title": "AD Nord Carton 5U 1/1 prudhommes",
+        "uploadTimestamp": 1518690478308,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 11897,
+        "nrOfPages": 17,
+        "pageId": 1497788,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=MWBTFAFDRVDSSNLWVNRTHIIB&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=MWBTFAFDRVDSSNLWVNRTHIIB&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38747",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38752,
+        "title": "AD Nord - 5 U 1 / 2 - Conseil des Prud'hommes de Tourcoing 1881",
+        "uploadTimestamp": 1518690930060,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 11737,
+        "nrOfPages": 3,
+        "pageId": 1497883,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=BPWGIZKREUNEKPXFOSBSFNJI&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=BPWGIZKREUNEKPXFOSBSFNJI&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38752",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 38760,
+        "title": "AD Nord - 5 U 1/1 - Conseil des prud'hommes",
+        "uploadTimestamp": 1518693731080,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 11897,
+        "nrOfPages": 15,
+        "pageId": 1498468,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=VALQFSCOOHCJUQMOTMVPSYLZ&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=VALQFSCOOHCJUQMOTMVPSYLZ&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_38760",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 39066,
+        "title": "Prud'hommes Tourcoing",
+        "uploadTimestamp": 1519060322275,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 75,
+        "pageId": 1507781,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=JBXISOOKMPAJKXYRSNQAPKJH&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=JBXISOOKMPAJKXYRSNQAPKJH&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_39066",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 41459,
+        "title": "AD69 9M5",
+        "uploadTimestamp": 1521133660775,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 451,
+        "pageId": 1735916,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=WJNLBXEYXGOKKCJZNNZPPIGX&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=WJNLBXEYXGOKKCJZNNZPPIGX&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_41459",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 42658,
+        "title": "2I47A/Police politique1",
+        "uploadTimestamp": 1522141975445,
+        "uploader": "*****@*****",
+        "uploaderId": 4197,
+        "nrOfPages": 164,
+        "pageId": 1850479,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=CBDOLEVFMVPOCATPIBTDBJED&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=CBDOLEVFMVPOCATPIBTDBJED&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_42658",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 53428,
+        "title": "AD Seine Prud'homme 1858 (D1U10 386)",
+        "uploadTimestamp": 1527082448662,
+        "uploader": "*****@*****",
+        "uploaderId": 12015,
+        "nrOfPages": 1315,
+        "pageId": 2544204,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=AOCPQLAQEFOFCTZZKCZUNQZR&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=AOCPQLAQEFOFCTZZKCZUNQZR&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_53428",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 11805,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 53483,
+        "title": "AD Seine Prud'hommes 1847-1849 (D1U10 379)",
+        "uploadTimestamp": 1527082425159,
+        "uploader": "*****@*****",
+        "uploaderId": 12015,
+        "nrOfPages": 47,
+        "pageId": 2544201,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=OOAVHAFRUGOYBAYFJMUUADAS&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=OOAVHAFRUGOYBAYFJMUUADAS&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_53483",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 11805,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 53494,
+        "title": "AD Seine Prud'hommes 1878 (D1U10 405)",
+        "uploadTimestamp": 1527084453618,
+        "uploader": "*****@*****",
+        "uploaderId": 12015,
+        "nrOfPages": 137,
+        "pageId": 2544408,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=KQDZIWPSEDIMLJQOXAFVCQBU&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=KQDZIWPSEDIMLJQOXAFVCQBU&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_53494",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 11805,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 53501,
+        "title": "AD Seine Prud'hommes 1883  (D1U10 410)",
+        "uploadTimestamp": 1527085737370,
+        "uploader": "*****@*****",
+        "uploaderId": 12015,
+        "nrOfPages": 128,
+        "pageId": 2544537,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=IJSVLTNOHWPYHORKQYCMTFCS&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=IJSVLTNOHWPYHORKQYCMTFCS&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_53501",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 11805,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 53542,
+        "title": "AD Seine Prud'hommes 1863 (D1U10 391)",
+        "uploadTimestamp": 1527093083767,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 12015,
+        "nrOfPages": 119,
+        "pageId": 2545677,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=RFSZXOJLKGHTWYVYVYDBVCAV&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=RFSZXOJLKGHTWYVYVYDBVCAV&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_53542",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                },
+                {
+                    "colId": 11805,
+                    "colName": "*****@***** Collection",
+                    "description": "*****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 61778,
+        "title": "procès du 19_02_71",
+        "author": "Consulat de Lyon",
+        "uploadTimestamp": 1527699492623,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 12027,
+        "nrOfPages": 4,
+        "pageId": 2600844,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=EESLFWPMHPFOYWPQYRJQOPOH&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=EESLFWPMHPFOYWPQYRJQOPOH&fileType=thumb",
+        "language": "French",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_59392",
+        "createdFromTimestamp": -6275577600000,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 63512,
+        "title": "AD Seine Prud'homme 1858 (D1U10 386)_HTRtest",
+        "uploadTimestamp": 1528193574160,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "tobias.hodel@uzh.ch",
+        "uploaderId": 537,
+        "nrOfPages": 1315,
+        "pageId": 2634625,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=AOCPQLAQEFOFCTZZKCZUNQZR&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=AOCPQLAQEFOFCTZZKCZUNQZR&fileType=thumb",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_53428",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    },
+    {
+        "type": "trpDocMetadata",
+        "docId": 68178,
+        "title": "suite d'affaires Curia, Janvier - mars 1768",
+        "uploadTimestamp": 1530098647099,
+        "scriptType": "HANDWRITTEN",
+        "uploader": "*****@*****",
+        "uploaderId": 12027,
+        "nrOfPages": 5,
+        "pageId": 2828126,
+        "url": "https://dbis-thure.uibk.ac.at/f/Get?id=SADTFSUBFQCDXWZUGUVCJHRD&fileType=view",
+        "thumbUrl": "https://dbis-thure.uibk.ac.at/f/Get?id=SADTFSUBFQCDXWZUGUVCJHRD&fileType=thumb",
+        "language": "French",
+        "status": 0,
+        "fimgStoreColl": "TrpDoc_DEA_68145",
+        "createdFromTimestamp": 0,
+        "createdToTimestamp": 0,
+        "collectionList": {
+            "colList": [
+                {
+                    "colId": 8097,
+                    "colName": "timeUS",
+                    "description": "created by *****@*****",
+                    "crowdsourcing": false,
+                    "elearning": false,
+                    "nrOfDocuments": 0
+                }
+            ]
+        }
+    }
+]

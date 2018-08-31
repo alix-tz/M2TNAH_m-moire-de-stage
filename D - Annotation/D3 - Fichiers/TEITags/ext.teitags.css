@@ -1,0 +1,61 @@
+/**
+ * Copyright (C) 2013 Richard Davis
+*
+* This program is free software; you can redistribute it and/or modify
+* it under the terms of the GNU General Public License Version 2, as
+* published by the Free Software Foundation.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+*
+* You should have received a copy of the GNU General Public License
+* along with this program; if not, write to the Free Software
+* Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+*
+* @package MediaWiki
+* @subpackage Extensions
+* @author Richard Davis <r.davis@ulcc.ac.uk>
+* @author Ben Parish <b.parish@ulcc.ac.uk>
+* @copyright 2013 Richard Davis
+*/
+
+span.tei-del {text-decoration: line-through;}
+span.tei-add {vertical-align: baseline; font-size: 0.8em; position: relative; top: -0.4em; }
+span.tei-unclear {border-bottom: 1px dotted #000; }
+span.tei-unclear:after {content: "[?]";}
+span.tei-note {border: 1px solid #999; }
+span.tei-hi {text-decoration:underline; } /* N.b. <u> also works */
+span.tei-foreign { border-bottom: 1px dotted #0a0;  }
+span.tei-sic {border-bottom: 1px dotted #aa0; } 
+span.tei-head { display: block; font-size: large; }
+span.tei-gap:after {content: "[ . . . ]";}
+span.superscript {text-decoration: none; vertical-align: baseline; position: relative; top: -0.4em; }
+//span.tei-persName {text-decoration:underline; text-decoration-color:red}
+span.tei-persName {background-color:Gold}
+//span.tei-placeName {text-decoration:underline; text-decoration-color:green}
+span.tei-placeName {background-color:#00FFFF}
+//span.tei-term {text-decoration:underline; text-decoration-color:blue}
+span.tei-term {background-color:GreenYellow}
+//span.tei-measure {border: 1px solid red;}
+span.tei-measure {background-color:#F781BE}
+span.tei-rs {background-color:#FFFF00}
+span.tei-TU_adresse {text-decoration: underline; text-decoration-style: double; text-decoration-color:#34D334; }
+span.tei-TU_date {text-decoration: underline; text-decoration-style: double; text-decoration-color:#808080; }
+span.tei-TU_document {text-decoration: underline; text-decoration-style: double; text-decoration-color:#FFFF00; }
+span.tei-TU_duree {text-decoration: underline; text-decoration-style: double; text-decoration-color:#D8D8D8; }
+span.tei-TU_heure {text-decoration: underline; text-decoration-style: double; text-decoration-color:#B2B2B2; }
+span.tei-TU_incertitude {text-decoration: underline; text-decoration-style: double; text-decoration-color:#FF0000; }
+span.tei-TU_montant {text-decoration: underline; text-decoration-style: double; text-decoration-color:#4CC9C9; }
+span.tei-TU_occupation {text-decoration: underline; text-decoration-style: double; text-decoration-color:#CC6A40; }
+span.tei-TU_organization {text-decoration: underline; text-decoration-style: double; text-decoration-color:#800800; }
+span.tei-TU_personne {color:#FFA500; }
+span.tei-TU_place {text-decoration: underline; text-decoration-style: double; text-decoration-color:#008000; }
+span.tei-TU_produit {text-decoration: underline; text-decoration-style: double; text-decoration-color:#9999FF; }
+span.tei-TU_remuneration {color:#0000FF; }
+span.tei-TU_statutMatrimonial {text-decoration: underline; text-decoration-style: double; text-decoration-color:#CC8400; }
+span.tei-TU_tache {text-decoration: underline; text-decoration-style: double; text-decoration-color:#00CCCC; }
+span.tei-TU_typeRemuneration {text-decoration: underline; text-decoration-style: double; text-decoration-color:#4343D5; }
+span.tei-TU_statut {color:#BE8F8F; }
+span.tei-TU_quantite {text-decoration: underline; text-decoration-style: double; text-decoration-color:#F77D92; }
